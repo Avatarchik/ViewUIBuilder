@@ -1,0 +1,49 @@
+<View id="Screensaver" width="1920" height="1080" x="0" y="0" correctY="true" origPosition="">
+	<Components>
+		<Component type="IMAGE" id="fundoScreensaver" imageId="fundoScreensaver" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="logoCocacolaScreensaver" imageId="logoCocacola" description="acesso rapido image" x="50" y="980" objWidth="177" objHeight="62" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="logoScreensaver" imageId="logoScreensaver" description="acesso rapido image" x="899" y="40" objWidth="122" objHeight="108" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="peixeScreensaver" imageId="peixeScreensaver" description="acesso rapido image" x="680" y="260" objWidth="560" objHeight="560" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="peixeScreensaverTextArea1" description="bread crumb text area" x="960" y="680" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="peixeScreensaverTextArea1Texto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="peixeScreensaverTextArea2" description="bread crumb text area" x="960" y="750" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="peixeScreensaverTextArea2Texto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="cartaoScreensaver" imageId="cartaoScreensaver" description="acesso rapido image" x="906" y="920" objWidth="106" objHeight="68" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="cartaoScreensaverTextArea" description="bread crumb text area" x="960" y="970" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="cartaoScreensaverTextAreaTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+	</Components>
+</View>

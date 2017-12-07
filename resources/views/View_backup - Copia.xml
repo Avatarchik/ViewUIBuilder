@@ -1,0 +1,310 @@
+<View id="HomeViewVarejo" width="1920" height="1080" x="0" y="0" correctY="true" origPosition="">
+	<Components>
+	
+		<Component type="ANIMATION" id="InterfaceNumeroCountdown" description="grafico image" x="798.5" y="230" objWidth="323" objHeight="109" groupId="groupTutorialParte4">
+			<config type="0" folder="animationCountdown"/>
+			<imageArray>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+			</imageArray>
+		</Component>
+		
+		<!-- BREAD CRUMB -->
+		<Component type="TEXTAREA" id="homeTestTextTextoTextArea" description="bread crumb text area" x="370" y="200" objWidth="0" objHeight="0" groupId="groupHome">
+			<textArray>
+				<text textId="homeTestTextTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<!-- ACESSO RAPIDO IMG -->
+		<Component type="IMAGE" id="acessoRapidoImg" imageId="acessoRapidoImg" description="acesso rapido image" x="229" y="379" objWidth="441" objHeight="312" >
+			<textArray>
+				<text textId="homeAcessoRapidoTexto" x="25" y="150"/>
+				<text textId="homeTabelaTextoBt0102" x="25" y="78"/>
+			</textArray>
+		</Component>
+		
+		<!-- TABELA DE TARIFAS BUTTON -->
+		<Component type="BUTTON" id="tabelaBtComp" description="tabela button" x="449" y="700">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="tabelaTarifasBtE01" x="0" y="0"/>
+				<image id="tabelaTarifasBtE01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeTabelaTextoBt0102" x="25" y="78"/>
+				<text textId="homeTabelaTextoBt0102" x="25" y="78"/>
+			</textArray>
+		</Component>
+		
+		<!-- INDICES E COTACOES BUTTON -->
+		<Component type="BUTTON" id="indiceBtComp" description="indice button" x="449" y="847">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+				<image id="indicesCotacaoBtE01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeIndicesTextoBt0102" x="25" y="78"/>
+				<text textId="homeIndicesTextoBt0102" x="25" y="78"/>
+			</textArray>
+		</Component>
+		
+		<!-- LOGIN BIOMETRIA BUTTON -->
+		<Component type="BUTTON" id="loginBtComp" description="login button" x="669" y="847">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="loginBiometriaBtE01" x="0" y="0"/>
+				<image id="loginBiometriaBtE01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeLoginTextoBt0102" x="25" y="58"/>
+				<text textId="homeLoginTextoBt0103" x="25" y="58"/>
+			</textArray>
+		</Component>
+		
+		<!-- EMPRESTIMOS BUTTON -->
+		<Component type="BUTTON" id="emprestimoBtComp" description="emprestimo button" x="669" y="563">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="emprestimosBtE01" x="0" y="0"/>
+				<image id="emprestimosBtE01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeEmprestimoTextoBt0102" x="25" y="215"/>
+				<text textId="homeEmprestimoTextoBt0102" x="25" y="215"/>
+			</textArray>
+		</Component>
+		
+		<!-- LINK IMG -->
+		<Component type="IMAGE" id="linkImg" imageId="linkImg" description="link image" x="902" y="703" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="BUTTON" id="graficoBt" description="tabela button" x="1050" y="650" objWidth="499" objHeight="384">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="graficoImg" x="0" y="0"/>
+				<image id="graficoImg" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="175" y="335"/>
+				<text textId="NONE" x="175" y="335"/>
+			</textArray>
+		</Component>
+		
+		<!-- TELA 01 - END -->
+		
+		
+		<!-- TELA 02 - BEGIN -->
+		
+		<!-- FUNDO BRILHO CARTOES -->
+		<Component type="IMAGE" id="cartoesFundoBrilho" imageId="cartoesFundoBrilho" description="fundo brilho cartoes image" x="2248" y="441" objWidth="440" objHeight="285">
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+				
+		<!-- PRODUTOS E SERVICOS IMG -->
+		<Component type="IMAGE" id="produtosServicosImg" imageId="produtosServicosImg" description="produto e servicos image" x="1728" y="711" objWidth="440" objHeight="285">
+			<textArray>
+				<text textId="homeProdutosEServicosTexto" x="30" y="50"/>
+			</textArray>
+		</Component>
+		
+		<!-- PREVIDENCIA BUTTON -->
+		<Component type="BUTTON" id="previdenciaBtComp02" description="previdencia button" x="1728" y="417" objWidth="220" objHeight="294">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="previdenciaBtE01" x="0" y="0"/>
+				<image id="previdenciaBtE01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homePrevidenciaTextoBt0102" x="25" y="232"/>
+				<text textId="homePrevidenciaTextoBt0102" x="25" y="232"/>
+			</textArray>
+		</Component>
+		
+		<!-- CAPITALIZACAO BUTTON -->
+		<Component type="BUTTON" id="capitalizacaoBtComp" description="capitalizacao button" x="1948" y="401" objWidth="220" objHeight="162">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="capitalizacaoBt01" x="0" y="0"/>
+				<image id="capitalizacaoBt01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeCapitalizacaoTextoBt0102" x="25" y="113"/>
+				<text textId="homeCapitalizacaoTextoBt0102" x="25" y="113"/>
+			</textArray>
+		</Component>
+		
+		<!-- INVESTIMENTOS BUTTON -->
+		<Component type="BUTTON" id="investimentosBtComp" description="investimentos button" x="1948" y="561" objWidth="228" objHeight="150">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="investimenstosBt01" x="0" y="0"/>
+				<image id="investimenstosBt01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeInvestimentosTextoBt0102" x="25" y="104"/>
+				<text textId="homeInvestimentosTextoBt0102" x="25" y="104"/>
+			</textArray>
+		</Component>
+		
+		<!-- CONSORCIOS BUTTON -->
+		<Component type="BUTTON" id="consorciosBtComp" description="consorcios button" x="2168" y="838" objWidth="220" objHeight="147">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="consorciosBt01" x="0" y="0"/>
+				<image id="consorciosBt01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeConsorcioTextoBt0102" x="25" y="105"/>
+				<text textId="homeConsorcioTextoBt0102" x="25" y="105"/>
+			</textArray>
+		</Component>
+		
+		<!-- EMPRESTIMOS BUTTON -->
+		<Component type="BUTTON" id="emprestimosFinanciamentosBtComp" description="emprestimos button" x="2388" y="408" objWidth="344" objHeight="155">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="emprestimosBt01" x="0" y="0"/>
+				<image id="emprestimosBt01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeEmprestimosTextoBt0102" x="25" y="82"/>
+				<text textId="homeEmprestimosTextoBt0102" x="25" y="82"/>
+			</textArray>
+		</Component>
+		
+		<!-- SEGUROS BUTTON -->
+		<Component type="BUTTON" id="segurosBtComp" description="seguros button" x="2733" y="849" objWidth="220" objHeight="294">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="segurosBt01" x="0" y="0"/>
+				<image id="segurosBt01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeSeguroTextoBt0102" x="25" y="99"/>
+				<text textId="homeSeguroTextoBt0102" x="25" y="99"/>
+			</textArray>
+		</Component>
+		
+		<!-- CARTOES BUTTON -->
+		<Component type="BUTTON" id="cartoesBtComp" description="cartoes button" x="2235" y="558" objWidth="220" objHeight="294">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="cartoesBt" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeCartoesTextoBt" x="200" y="232"/>
+				<text textId="homeCartoesTextoBt" x="200" y="232"/>
+			</textArray>
+		</Component>
+		
+		<!-- IMAGEM LINK -->
+		<Component type="IMAGE" id="home2linkImg" imageId="home2linkImg" description="home 2 link  image" x="2500" y="630" objWidth="440" objHeight="285">
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<!-- TELA 02 - END -->
+		
+		
+		<!-- TELA 03 - BEGIN -->
+		
+		<!-- PHONE IMAGE -->
+		<Component type="IMAGE" id="foneImg" imageId="foneImg" description="home 3 link image" x="3880" y="418" objWidth="440" objHeight="431">
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<!-- CANAIS IMAGE -->
+		<Component type="IMAGE" id="canaisDigitaisImg" imageId="canaisDigitaisImg" description="canais image" x="3219" y="562" objWidth="440" objHeight="284">
+			<textArray>
+				<text textId="homeCanaisDigitaisTexto" x="33" y="40"/>
+			</textArray>
+		</Component>
+		
+		<!-- INTERNET BANKING BUTTON -->
+			<Component type="BUTTON" id="internetBtComp" description="internet button" x="3315" y="825" objWidth="220" objHeight="147">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="internetBt01" x="0" y="0"/>
+				<image id="internetBt01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeInternetTextoBt0102" x="25" y="100"/>
+				<text textId="homeInternetTextoBt0102" x="25" y="100"/>
+			</textArray>
+		</Component>
+		
+		<!-- MOBILIDADE BUTTON -->
+			<Component type="BUTTON" id="mobilidadeBtComp" description="mobilidade button" x="3533" y="774" objWidth="344" objHeight="220">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="mobilidadeBt01" x="0" y="0"/>
+				<image id="mobilidadeBt01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeMobilidadeTextoBt0102" x="25" y="175"/>
+				<text textId="homeMobilidadeTextoBt0102" x="25" y="175"/>
+			</textArray>
+		</Component>
+		
+		<!-- AUTOATENDIMENTO BUTTON -->
+			<Component type="BUTTON" id="autoatendimentoBtComp" description="autoatendimento button" x="3880" y="843" objWidth="220" objHeight="147">
+			<config increasePercent="1.1" angle="0" gapTouchSize="0" />
+			<imageArray>
+				<image id="autoatendimentoBt01" x="0" y="0"/>
+				<image id="autoatendimentoBt01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeAutoatendimentoTextoBt0102" x="15" y="110"/>
+				<text textId="homeAutoatendimentoTextoBt0102" x="15" y="110"/>
+			</textArray>
+		</Component>
+		
+		<!-- ACESSIBILIDADE BUTTON -->
+		<Component type="BUTTON" id="acessibilidadeBtComp" description="acessibilidade button" x="3661" y="418" objWidth="220" objHeight="284">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="acessibilidadeBt01" x="0" y="0"/>
+				<image id="acessibilidadeBt01" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="homeAcessibilidadeTextoBt0102" x="25" y="236"/>
+				<text textId="homeAcessibilidadeTextoBt0102" x="25" y="236"/>
+			</textArray>
+		</Component>
+		
+		<!-- FUNDO LINK IMAGE -->
+		<Component type="IMAGE" id="fundoLinkImg" imageId="fundoLinkImg" description="fundo link image" x="3961" y="584" objWidth="440" objHeight="431">
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<!-- LINK IMAGE -->
+		<Component type="IMAGE" id="home3LinkImg" imageId="home3LinkImg" description="home 3 link image" x="4195" y="705" objWidth="440" objHeight="431">
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<!-- TELA 03 - END -->
+	</Components>
+</View>

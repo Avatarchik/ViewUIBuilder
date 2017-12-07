@@ -1,0 +1,264 @@
+<View id="SecondStepCustomizeFish" width="1920" height="1080" x="0" y="0" correctY="true" script="SecondStepScript" origPosition="">
+	<Components>
+		<!--<Component type="IMAGE" id="fundoFirstStep" imageId="fundoLoading" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>-->
+
+		<Component type="IMAGE" id="bubblesBgSecondStep" imageId="bubblesBgSecondStep" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="textAreaTitlePtSecondStep" description="bread crumb text area" x="960" y="30" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaTitlePtSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="textAreaTitleEnSecondStep" description="bread crumb text area" x="960" y="60" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaTitleEnSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="pageCountSecondStep" imageId="pageCountSecondStep" description="acesso rapido image" x="795" y="140" objWidth="331" objHeight="61" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+
+		<Component type="IMAGE" id="ballonClickSecondStep" imageId="ballonClickSecondStep" description="acesso rapido image" x="168" y="255" objWidth="464" objHeight="129" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="ballonClickTextPtSecondStep" description="bread crumb text area" x="425" y="245" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="ballonClickTextPtSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="ballonClickTextEnSecondStep" description="bread crumb text area" x="425" y="270" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="ballonClickTextEnSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+
+		<Component type="IMAGE" id="ballonSlideSecondStep" imageId="ballonSlideSecondStep" description="acesso rapido image" x="1280" y="255" objWidth="464" objHeight="129" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="ballonSlideTextPtSecondStep" description="bread crumb text area" x="1537" y="245" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="ballonSlideTextPtSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="ballonSlideTextEnSecondStep" description="bread crumb text area" x="1537" y="270" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="ballonSlideTextEnSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<!-- BTN ESCAMAS -->
+		<Component type="BUTTON" id="btnEscama1SecondStep" description="tabela button" x="235" y="370">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="personalizeBtnOffSecondStep" x="0" y="0"/>
+				<image id="personalizeBtnOnSecondStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="btnEscama1Image" imageId="escama0Peixe0" description="acesso rapido image" x="335" y="469" objWidth="112" objHeight="112" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="BUTTON" id="btnEscama2SecondStep" description="tabela button" x="100" y="500">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="personalizeBtnOffSecondStep" x="0" y="0"/>
+				<image id="personalizeBtnOnSecondStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="btnEscama2Image" imageId="escama1Peixe0" description="acesso rapido image" x="200" y="600" objWidth="112" objHeight="112" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="BUTTON" id="btnEscama3SecondStep" description="tabela button" x="235" y="640">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="personalizeBtnOffSecondStep" x="0" y="0"/>
+				<image id="personalizeBtnOnSecondStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="btnEscama3Image" imageId="escama2Peixe0" description="acesso rapido image" x="335" y="740" objWidth="112" objHeight="112" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="BUTTON" id="btnEscama4SecondStep" description="tabela button" x="370" y="500">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="personalizeBtnOffSecondStep" x="0" y="0"/>
+				<image id="personalizeBtnOnSecondStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="btnEscama4Image" imageId="escama3Peixe0" description="acesso rapido image" x="470" y="600" objWidth="112" objHeight="112" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<!-- SLIDES CORES -->
+		
+		<Component type="TEXTAREA" id="btnSlider1NamePtSecondStep" description="bread crumb text area" x="1426" y="414" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="btnSlider1NamePtSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="btnSlider1NameEnSecondStep" description="bread crumb text area" x="1426" y="434" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="btnSlider1NameEnSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="SLIDER" id="btnSlider1SecondStep" description="tabela button" x="1622" y="470" objWidth="160" objHeight="20" >
+			<imageArray>
+				<image id="slider1BackgroundSecondStep" x="0" y="0"/>
+				<image id="slider1FillSecondStep" x="0" y="0"/>
+				<image id="slider1HandleSecondStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="btnSlider2NamePtSecondStep" description="bread crumb text area" x="1426" y="503" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="btnSlider2NamePtSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="btnSlider2NameEnSecondStep" description="bread crumb text area" x="1426" y="523" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="btnSlider2NameEnSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="SLIDER" id="btnSlider2SecondStep" description="tabela button" x="1622" y="559" objWidth="160" objHeight="20" >
+			<imageArray>
+				<image id="slider2BackgroundSecondStep" x="0" y="0"/>
+				<image id="slider1FillSecondStep" x="0" y="0"/>
+				<image id="slider1HandleSecondStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="btnSlider3NamePtSecondStep" description="bread crumb text area" x="1426" y="592" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="btnSlider3NamePtSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="btnSlider3NameEnSecondStep" description="bread crumb text area" x="1426" y="612" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="btnSlider3NameEnSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="SLIDER" id="btnSlider3SecondStep" description="tabela button" x="1622" y="648" objWidth="160" objHeight="20" >
+			<imageArray>
+				<image id="slider3BackgroundSecondStep" x="0" y="0"/>
+				<image id="slider1FillSecondStep" x="0" y="0"/>
+				<image id="slider1HandleSecondStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="btnSlider4NamePtSecondStep" description="bread crumb text area" x="1426" y="681" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="btnSlider4NamePtSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="btnSlider4NameEnSecondStep" description="bread crumb text area" x="1426" y="701" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="btnSlider4NameEnSecondStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="SLIDER" id="btnSlider4SecondStep" description="tabela button" x="1622" y="737" objWidth="160" objHeight="20" >
+			<imageArray>
+				<image id="slider4BackgroundSecondStep" x="0" y="0"/>
+				<image id="slider1FillSecondStep" x="0" y="0"/>
+				<image id="slider1HandleSecondStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+		
+		<Component type="BUTTON" id="btnCancelar" description="tabela button" x="1675" y="50">
+			<config increasePercent="1.1" angle="0" radioButtonMode="false" />
+			<imageArray>
+				<image id="btnCancelar" x="0" y="0"/>
+				<image id="btnCancelar" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+
+		<!-- BTN back and forward-->
+		
+		<Component type="BUTTON" id="btnBackSecondStep" description="tabela button" x="50" y="950">
+			<config increasePercent="1.1" angle="0" radioButtonMode="false" />
+			<imageArray>
+				<image id="btnBackOffFirstStep" x="0" y="0"/>
+				<image id="btnBackOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+		<Component type="BUTTON" id="btnForwardSecondStep" description="tabela button" x="1600" y="950">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="btnForwardOffFirstStep" x="0" y="0"/>
+				<image id="btnForwardOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+	</Components>
+</View>

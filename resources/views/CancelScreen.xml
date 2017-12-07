@@ -1,0 +1,52 @@
+<View id="CancelScreen" width="1920" height="1080" x="0" y="0" correctY="true" script="CancelScreenScript" origPosition="">
+	<Components>
+		<Component type="IMAGE" id="BackBgCancelScreen" imageId="termoUsoBgTutorial" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080">
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="modalCancelScreen" imageId="modalCancelScreen" description="acesso rapido image" x="618" y="384" objWidth="684" objHeight="313">
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+
+		<Component type="TEXTAREA" id="questionPtCancelScreen" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="termoUsoTextGroupTutorial">
+			<textArray>
+				<text textId="questionPtCancelScreenTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="questionEnCancelScreen" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="termoUsoTextGroupTutorial">
+			<textArray>
+				<text textId="questionEnCancelScreenTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+
+		<Component type="BUTTON" id="btnNoCancelScreen" description="tabela button" x="767" y="580">
+			<config increasePercent="1" angle="0" radioButtonMode="false"/>
+			<imageArray>
+				<image id="btnNoUpCancelScreen" x="0" y="0"/>
+				<image id="btnNoDownCancelScreen" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+		<Component type="BUTTON" id="btnYesCancelScreen" description="tabela button" x="970" y="580">
+			<config increasePercent="1" angle="0" radioButtonMode="false"/>
+			<imageArray>
+				<image id="btnYesUpCancelScreen" x="0" y="0"/>
+				<image id="btnYesDownCancelScreen" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+	</Components>
+</View>

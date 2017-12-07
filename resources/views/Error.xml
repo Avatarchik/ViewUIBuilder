@@ -1,0 +1,150 @@
+<View id="Error" width="1920" height="1080" x="0" y="0" correctY="true" script="ErrorScript" origPosition="">
+	<Components>
+		<Component type="IMAGE" id="BackBgError" imageId="termoUsoBgTutorial" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080">
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="modalCancelScreen" imageId="modalCancelScreen" description="acesso rapido image" x="618" y="384" objWidth="684" objHeight="313">
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<!-- RegisterUser Error -->
+		<Component type="TEXTAREA" id="RegisterUserPtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="RegisterUser">
+			<textArray>
+				<text textId="textAreaRegisterUserPtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="RegisterUserEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="RegisterUser">
+			<textArray>
+				<text textId="textAreaRegisterUserEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<!-- ValidateRFID Error -->
+		<Component type="TEXTAREA" id="ValidateRFIDPtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="ValidateRFID">
+			<textArray>
+				<text textId="textAreaValidateRFIDPtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="ValidateRFIDEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="ValidateRFID">
+			<textArray>
+				<text textId="textAreaValidateRFIDEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<!-- Form Error -->
+		<Component type="TEXTAREA" id="FishNamePtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="FishNameErro">
+			<textArray>
+				<text textId="textAreaFishNamePtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="FishNameEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="FishNameErro">
+			<textArray>
+				<text textId="textAreaFishNameEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="NamePtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="NameErro">
+			<textArray>
+				<text textId="textAreaNamePtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="NameEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="NameErro">
+			<textArray>
+				<text textId="textAreaNameEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="AgePtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="AgeErro">
+			<textArray>
+				<text textId="textAreaAgePtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="AgeEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="AgeErro">
+			<textArray>
+				<text textId="textAreaAgeEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="EmailPtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="EmailErro">
+			<textArray>
+				<text textId="textAreaEmailPtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="EmailEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="EmailErro">
+			<textArray>
+				<text textId="textAreaEmailEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="CountryPtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="CountryErro">
+			<textArray>
+				<text textId="textAreaCountryPtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="CountryEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="CountryErro">
+			<textArray>
+				<text textId="textAreaCountryEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="StatePtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="StateErro">
+			<textArray>
+				<text textId="textAreaStatePtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="StateEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="StateErro">
+			<textArray>
+				<text textId="textAreaStateEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="SelectFishPtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="SelectFishErro">
+			<textArray>
+				<text textId="textSelectFishPtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="SelectFishEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="SelectFishErro">
+			<textArray>
+				<text textId="textSelectFishEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="TEXTAREA" id="SelectSkinPtErro" description="bread crumb text area" x="960" y="410" objWidth="300" objHeight="100" groupId="SelectSkinErro">
+			<textArray>
+				<text textId="textSelectSkinPtErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="SelectSkinEnErro" description="bread crumb text area" x="960" y="480" objWidth="300" objHeight="100" groupId="SelectSkinErro">
+			<textArray>
+				<text textId="textSelectSkinEnErro" x="0" y="0"/>
+			</textArray>
+		</Component>
+		
+		<Component type="BUTTON" id="btnOkError" description="tabela button" x="870" y="580">
+			<config increasePercent="1" angle="0" radioButtonMode="false"/>
+			<imageArray>
+				<image id="btnOkError" x="0" y="0"/>
+				<image id="btnOkDownError" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+	</Components>
+</View>

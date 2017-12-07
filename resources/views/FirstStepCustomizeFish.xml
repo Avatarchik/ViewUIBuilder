@@ -1,0 +1,151 @@
+<View id="FirstStepCustomizeFish" width="1920" height="1080" x="0" y="0" correctY="true" script="FirstStepScript" origPosition="">
+	<Components>
+		<Component type="IMAGE" id="fundoFirstStep" imageId="fundoLoading" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="textAreaTitlePtFirstStep" description="bread crumb text area" x="960" y="30" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaTitlePtFirstStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="textAreaTitleEnFirstStep" description="bread crumb text area" x="960" y="60" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaTitleEnFirstStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="pageCountFirstStep" imageId="pageCountFirstStep" description="acesso rapido image" x="795" y="140" objWidth="331" objHeight="61" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+
+
+		<!-- LEFT -->
+		<Component type="BUTTON" id="firstLeftFirstStep" description="tabela button" x="345" y="170">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="btnOptionOffFirstStep" x="0" y="0"/>
+				<image id="btnOptionOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+			
+		<Component type="BUTTON" id="secondLeftFirstStep" description="tabela button" x="345" y="530">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="btnOptionOffFirstStep" x="0" y="0"/>
+				<image id="btnOptionOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+
+		<!-- CENTER -->	
+		<Component type="BUTTON" id="firstCenterFirstStep" description="tabela button" x="745" y="170">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="btnOptionOffFirstStep" x="0" y="0"/>
+				<image id="btnOptionOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+			
+		<Component type="BUTTON" id="secondCenterFirstStep" description="tabela button" x="738" y="530">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="btnOptionOffFirstStep" x="0" y="0"/>
+				<image id="btnOptionOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+
+		<!-- RIGHT -->		
+		<Component type="BUTTON" id="firstRightFirstStep" description="tabela button" x="1145" y="170">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="btnOptionOffFirstStep" x="0" y="0"/>
+				<image id="btnOptionOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+			
+		<Component type="BUTTON" id="secondRightFirstStep" description="tabela button" x="1145" y="530">
+			<config increasePercent="1" angle="0" radioButtonMode="true" />
+			<imageArray>
+				<image id="btnOptionOffFirstStep" x="0" y="0"/>
+				<image id="btnOptionOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+
+		<!-- z="" xRot="" yRot="" zRot="" xScale="" yScale="" zScale=""  
+		<Component type="GROUP" id="testePosicaoPeixe" description="acesso rapido image" x="745" y="170" objWidth="1920" objHeight="1080" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>-->
+		
+		<Component type="BUTTON" id="btnCancelar" description="tabela button" x="1675" y="50">
+			<config increasePercent="1.1" angle="0" radioButtonMode="false" />
+			<imageArray>
+				<image id="btnCancelar" x="0" y="0"/>
+				<image id="btnCancelar" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+		
+		
+		<Component type="BUTTON" id="btnBackFirstStep" description="tabela button" x="50" y="950">
+			<config increasePercent="1.1" angle="0" radioButtonMode="false" />
+			<imageArray>
+				<image id="btnBackOffFirstStep" x="0" y="0"/>
+				<image id="btnBackOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+		<Component type="BUTTON" id="btnForwardFirstStep" description="tabela button" x="1600" y="950">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="btnForwardOffFirstStep" x="0" y="0"/>
+				<image id="btnForwardOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+	</Components>
+</View>

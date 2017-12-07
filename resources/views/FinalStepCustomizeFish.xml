@@ -1,0 +1,19 @@
+<View id="FinalStepCustomizeFish" width="1920" height="1080" x="0" y="0" correctY="true" script="FinalStepScript" origPosition="">
+	<Components>
+		<Component type="IMAGE" id="ballonImageFinalStep" imageId="ballonImageFinalStep" description="acesso rapido image" x="383" y="120" objWidth="1153" objHeight="314" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="ballonTextPtFinalStep" description="bread crumb text area" x="960" y="154" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="ballonTextPtFinalStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="ballonTextEnFinalStep" description="bread crumb text area" x="960" y="240" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="ballonTextEnFinalStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+	</Components>
+</View>

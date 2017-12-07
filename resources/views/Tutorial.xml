@@ -1,0 +1,188 @@
+<View id="Tutorial" width="1920" height="1080" x="0" y="0" correctY="true" script="TutorialScript" origPosition="">
+	<Components>
+		<Component type="IMAGE" id="fundoLoading" imageId="fundoLoading" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="textAreaTitlePtTutorial" description="bread crumb text area" x="960" y="50" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaTitlePtTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="textAreaTitleEnTutorial" description="bread crumb text area" x="960" y="110" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaTitleEnTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="firstStepTutorial" imageId="firstStepTutorial" description="acesso rapido image" x="44" y="250" objWidth="572" objHeight="572" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="firstStepTextPtTutorial" description="bread crumb text area" x="330" y="700" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="firstStepTextPtTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="firstStepTextEnTutorial" description="bread crumb text area" x="330" y="730" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="firstStepTextEnTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="firstStepArrow" imageId="arrowTutorial" description="acesso rapido image" x="610" y="480" objWidth="78" objHeight="60" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="secondStepTutorial" imageId="secondStepTutorial" description="acesso rapido image" x="674" y="250" objWidth="572" objHeight="572" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="secondStepTextPtTutorial" description="bread crumb text area" x="960" y="700" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="secondStepTextPtTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="secondStepTextEnTutorial" description="bread crumb text area" x="960" y="730" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="secondStepTextEnTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="secondStepArrow" imageId="arrowTutorial" description="acesso rapido image" x="1230" y="480" objWidth="78" objHeight="60" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="thirdStepTutorial" imageId="thirdStepTutorial" description="acesso rapido image" x="1304" y="250" objWidth="572" objHeight="572" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="thirdStepTextPtTutorial" description="bread crumb text area" x="1590" y="720" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="thirdStepTextPtTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="thirdStepTextEnTutorial" description="bread crumb text area" x="1590" y="780" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="thirdStepTextEnTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+
+		<Component type="BUTTON" id="touchToBeginTutorial" description="tabela button" x="753" y="915">
+			<config increasePercent="1" angle="0" radioButtonMode="false" />
+			<imageArray>
+				<image id="touchToBeginOffTutorial" x="0" y="0"/>
+				<image id="touchToBeginOffTutorial" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+		<!-- TERMO DE USO -->
+
+		<Component type="GROUP" id="termoUsoGroupTutorial" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="termoUsoBgTutorial" imageId="termoUsoBgTutorial" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080" groupId="termoUsoGroupTutorial" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="termoUsoTitlePtTutorial" description="bread crumb text area" x="960" y="50" objWidth="300" objHeight="100" groupId="termoUsoGroupTutorial">
+			<textArray>
+				<text textId="termoUsoTitlePtTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="termoUsoTitleEnTutorial" description="bread crumb text area" x="960" y="110" objWidth="300" objHeight="100" groupId="termoUsoGroupTutorial">
+			<textArray>
+				<text textId="termoUsoTitleEnTutorialTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="BUTTON" id="termoUsoCloseBtnTutorial" description="tabela button" x="1440" y="200" groupId="termoUsoGroupTutorial">
+			<config increasePercent="1" angle="0" radioButtonMode="false"/>
+			<imageArray>
+				<image id="termoUsoCloseBtnTutorial" x="0" y="0"/>
+				<image id="termoUsoCloseBtnTutorial" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="termoUsoBoxTutorial" imageId="termoUsoBoxTutorial" description="acesso rapido image" x="480" y="235" objWidth="960" objHeight="590" groupId="termoUsoGroupTutorial" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+
+		<Component type="GROUP" id="termoUsoTextGroupTutorial" description="acesso rapido image" x="908" y="545" objWidth="800" objHeight="550" groupId="termoUsoGroupTutorial" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="termoUsoTextPtTutorial" description="bread crumb text area" x="0" y="806" objWidth="300" objHeight="100" groupId="termoUsoTextGroupTutorial">
+			<textArray>
+				<text textId="tutorialTermosUsoTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+
+		<Component type="BUTTON" id="termoUsoBtnUpTutorial" description="tabela button" x="1350" y="250" groupId="termoUsoGroupTutorial">
+			<config increasePercent="1" angle="0" radioButtonMode="false"/>
+			<imageArray>
+				<image id="termoUsoUpArrowOffTutorial" x="0" y="0"/>
+				<image id="termoUsoUpArrowOnTutorial" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+		<Component type="BUTTON" id="termoUsoBtnDownTutorial" description="tabela button" x="1350" y="535" groupId="termoUsoGroupTutorial">
+			<config increasePercent="1" angle="0" radioButtonMode="false"/>
+			<imageArray>
+				<image id="termoUsoDownArrowOffTutorial" x="0" y="0"/>
+				<image id="termoUsoDownArrowOnTutorial" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+
+		<Component type="BUTTON" id="termoUsoBtnTutorial" description="tabela button" x="809" y="870" groupId="termoUsoGroupTutorial">
+			<config increasePercent="1" angle="0" radioButtonMode="false"/>
+			<imageArray>
+				<image id="termoUsoBtnTutorial" x="0" y="0"/>
+				<image id="termoUsoBtnTutorial" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+	</Components>
+</View>

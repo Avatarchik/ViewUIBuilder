@@ -1,0 +1,20 @@
+<App appHeight="1080" appWidth="1920" mediaPath="resources/media/"  viewPath="resources/views/">
+	<Canvas>
+		<Canva id="Canvas1" renderMode="ScreenSpaceCamera" pixelPerfect="false" planeDistance="100" order="0"></Canva>
+		<Canva id="Canvas2" renderMode="ScreenSpaceCamera" pixelPerfect="false" planeDistance="1" order="2"></Canva>
+	</Canvas>
+	<Views>
+		<View idCanvas="Canvas1" id="FirstStepCustomizeFish" file="FirstStepCustomizeFish.xml"></View>
+		<View idCanvas="Canvas1" id="SecondStepCustomizeFish" file="SecondStepCustomizeFish.xml"></View>
+		<View idCanvas="Canvas1" id="ThirdStepCustomizeFish" file="ThirdStepCustomizeFish.xml"></View>
+		<View idCanvas="Canvas1" id="FourthStepCustomizeFish" file="FourthStepCustomizeFish.xml"></View>
+		<View idCanvas="Canvas1" id="FinalStepCustomizeFish" file="FinalStepCustomizeFish.xml"></View>
+		<View idCanvas="Canvas2" id="screensaver" file="Screensaver.xml"></View>
+		<View idCanvas="Canvas2" id="loading" file="Loading.xml"></View>
+		<View idCanvas="Canvas2" id="tutorial" file="Tutorial.xml"></View>
+		<View idCanvas="Canvas2" id="CancelScreen" file="CancelScreen.xml"></View>
+		<View idCanvas="Canvas2" id="loadingAssets" file="LoadingAssets.xml"></View>
+		<View idCanvas="Canvas2" id="sendData" file="SendData.xml"></View>
+		<View idCanvas="Canvas2" id="error" file="Error.xml"></View>
+	</Views>
+</App>

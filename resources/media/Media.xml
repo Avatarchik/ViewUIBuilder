@@ -1,0 +1,413 @@
+<Medias>
+
+	<Images>
+		<!-- GERAL -->
+		<Media id="blank" reference="geral default" width="53" height="52" url="geral\blank.png"/>
+
+		<Media id="btnCancelar" reference="geral default" width="196" height="72" url="geral\Bt_Cancelar.png"/>	
+		
+		<!-- SCREENSAVER -->
+		<Media id="fundoScreensaver" reference="geral default" width="1920" height="1080" url="Screensaver\screensaver-bgwave.png"/>
+		<Media id="logoCocacola" reference="geral default" width="177" height="62" url="Screensaver\logo-coca-175x61.png"/>
+		<Media id="logoScreensaver" reference="geral default" width="122" height="108" url="Screensaver\screensaver-logoAquaRio.png"/>
+		<Media id="peixeScreensaver" reference="geral default" width="560" height="560" url="Screensaver\screensaver-logo.png"/>
+		<Media id="cartaoScreensaver" reference="geral default" width="106" height="68" url="Screensaver\screensaver-icon-cartao.png"/>
+
+		<!-- LOADING -->
+		<Media id="fundoLoading" reference="geral default" width="1920" height="1080" url="Loading\tutorial-bg.png"/>
+		<Media id="peixeLoading" reference="geral default" width="81" height="66" url="Loading\load-peixe.png"/>
+		<Media id="loadBarLoading" reference="geral default" width="176" height="176" url="Loading\load-bar.png"/>
+
+		<!-- TUTORIAL -->
+		<Media id="touchToBeginOffTutorial" reference="geral default" width="415" height="117" url="Tutorial\tutorial-botao-comecar.png"/>
+		<Media id="firstStepTutorial" reference="geral default" width="572" height="572" url="Tutorial\tutorial-01-selecione.png"/>
+		<Media id="secondStepTutorial" reference="geral default" width="572" height="572" url="Tutorial\tutorial-02-personalize.png"/>
+		<Media id="thirdStepTutorial" reference="geral default" width="572" height="572" url="Tutorial\tutorial-03-nome.png"/>
+		<Media id="arrowTutorial" reference="geral default" width="78" height="60" url="Tutorial\tutorial-seta.png"/>
+
+		<Media id="termoUsoBgTutorial" reference="geral default" width="78" height="60" url="Tutorial\termodeuso-bg-modal.png"/>
+		<Media id="termoUsoBoxTutorial" reference="geral default" width="960" height="590" url="Tutorial\termodeuso-bg-texto.png"/>
+		<Media id="termoUsoBtnTutorial" reference="geral default" width="302" height="71" url="Tutorial\termouso--bt-aceitar.png"/>
+		<Media id="termoUsoCloseBtnTutorial" reference="geral default" width="45" height="45" url="Tutorial\termouso-bt-fechar.png"/>
+
+		<Media id="termoUsoUpArrowOffTutorial" reference="geral default" width="80" height="285" url="Tutorial\termodeuso-bt-scroll-up-out.png"/>
+		<Media id="termoUsoUpArrowOnTutorial" reference="geral default" width="80" height="285" url="Tutorial\termodeuso-bt-scroll-up-onpress.png"/>
+		<Media id="termoUsoDownArrowOffTutorial" reference="geral default" width="80" height="285" url="Tutorial\termodeuso-bt-scroll-down-out.png"/>
+		<Media id="termoUsoDownArrowOnTutorial" reference="geral default" width="80" height="285" url="Tutorial\termodeuso-bt-scroll-down-onpress.png"/>
+
+		<!-- FIRST STEP -->
+		<Media id="pageCountFirstStep" reference="geral default" width="331" height="61" url="FirstStep\paginacao_01.png"/>
+		<Media id="btnBackOffFirstStep" reference="geral default" width="274" height="88" url="FirstStep\navegacao-anterior-on.png"/>
+		<Media id="btnBackOnFirstStep" reference="geral default" width="274" height="88" url="FirstStep\navegacao-anterior-off.png"/>
+		<Media id="btnForwardOffFirstStep" reference="geral default" width="274" height="88" url="FirstStep\navegacao-proximo-on.png"/>
+		<Media id="btnForwardOnFirstStep" reference="geral default" width="274" height="88" url="FirstStep\navegacao-proximo-off.png"/>
+		<Media id="btnOptionOffFirstStep" reference="geral default" width="430" height="432" url="FirstStep\bt-bolha-pequena-off.png"/>
+		<Media id="btnOptionOnFirstStep" reference="geral default" width="430" height="432" url="FirstStep\bt-bolha-pequena-on.png"/>
+
+		<!-- SECOND STEP -->
+		<Media id="pageCountSecondStep" reference="geral default" width="331" height="61" url="SecondStep\paginacao_02.png"/>
+		<Media id="bubblesBgSecondStep" reference="geral default" width="1920" height="1080" url="SecondStep\personalize-bg-peixe-transparent.png"/>
+		<Media id="personalizeBtnOffSecondStep" reference="geral default" width="200" height="200" url="SecondStep\personalize-bg-escama-off.png"/>
+		<Media id="personalizeBtnOnSecondStep" reference="geral default" width="200" height="200" url="SecondStep\personalize-bg-escama-on.png"/>
+		<Media id="ballonClickSecondStep" reference="geral default" width="464" height="129" url="SecondStep\personalize-bgtitulo-toque.png"/>
+		<Media id="ballonSlideSecondStep" reference="geral default" width="464" height="129" url="SecondStep\personalize-bgtitulo-arraste.png"/>
+
+		<Media id="slider1BackgroundSecondStep" reference="geral default" width="464" height="129" url="SecondStep\personalize-pattern-escama.png"/>
+		<Media id="slider1FillSecondStep" reference="geral default" width="464" height="129" url="SecondStep\PeixeVirtual-Barra-Controle.png"/>
+		<Media id="slider1HandleSecondStep" reference="geral default" width="464" height="129" url="SecondStep\PeixeVirtual-BtDrag-Controle.png"/>
+		<Media id="slider2BackgroundSecondStep" reference="geral default" width="464" height="129" url="SecondStep\personalize-pattern-corpo.png"/>
+		<Media id="slider3BackgroundSecondStep" reference="geral default" width="464" height="129" url="SecondStep\personalize-pattern-barbatana.png"/>
+		<Media id="slider4BackgroundSecondStep" reference="geral default" width="464" height="129" url="SecondStep\personalize-pattern-olhos.png"/>
+
+		<Media id="escama0Peixe0" reference="geral default" width="112" height="112" url="SecondStep\DetalhesGroupa1.png"/>
+		<Media id="escama1Peixe0" reference="geral default" width="112" height="112" url="SecondStep\escama2.jpg"/>
+		<Media id="escama2Peixe0" reference="geral default" width="112" height="112" url="SecondStep\escama3.jpg"/>
+		<Media id="escama3Peixe0" reference="geral default" width="112" height="112" url="SecondStep\escama4.jpg"/>
+
+		<Media id="escama0Peixe1" reference="geral default" width="112" height="112" url="SecondStep\escama1.jpg"/>
+		<Media id="escama1Peixe1" reference="geral default" width="112" height="112" url="SecondStep\escama2.jpg"/>
+		<Media id="escama2Peixe1" reference="geral default" width="112" height="112" url="SecondStep\escama3.jpg"/>
+		<Media id="escama3Peixe1" reference="geral default" width="112" height="112" url="SecondStep\escama4.jpg"/>
+
+		<Media id="escama0Peixe2" reference="geral default" width="112" height="112" url="SecondStep\escama1.jpg"/>
+		<Media id="escama1Peixe2" reference="geral default" width="112" height="112" url="SecondStep\escama2.jpg"/>
+		<Media id="escama2Peixe2" reference="geral default" width="112" height="112" url="SecondStep\escama3.jpg"/>
+		<Media id="escama3Peixe2" reference="geral default" width="112" height="112" url="SecondStep\escama4.jpg"/>
+
+		<Media id="escama0Peixe3" reference="geral default" width="112" height="112" url="SecondStep\escama1.jpg"/>
+		<Media id="escama1Peixe3" reference="geral default" width="112" height="112" url="SecondStep\escama2.jpg"/>
+		<Media id="escama2Peixe3" reference="geral default" width="112" height="112" url="SecondStep\escama3.jpg"/>
+		<Media id="escama3Peixe3" reference="geral default" width="112" height="112" url="SecondStep\escama4.jpg"/>
+
+		<Media id="escama0Peixe4" reference="geral default" width="112" height="112" url="SecondStep\escama1.jpg"/>
+		<Media id="escama1Peixe4" reference="geral default" width="112" height="112" url="SecondStep\escama2.jpg"/>
+		<Media id="escama2Peixe4" reference="geral default" width="112" height="112" url="SecondStep\escama3.jpg"/>
+		<Media id="escama3Peixe4" reference="geral default" width="112" height="112" url="SecondStep\escama4.jpg"/>
+
+		<Media id="escama0Peixe5" reference="geral default" width="112" height="112" url="SecondStep\escama1.jpg"/>
+		<Media id="escama1Peixe5" reference="geral default" width="112" height="112" url="SecondStep\escama2.jpg"/>
+		<Media id="escama2Peixe5" reference="geral default" width="112" height="112" url="SecondStep\escama3.jpg"/>
+		<Media id="escama3Peixe5" reference="geral default" width="112" height="112" url="SecondStep\escama4.jpg"/>
+
+		<Media id="escamasMask" reference="geral default" width="112" height="112" url="SecondStep\mask2.png"/>
+
+
+		<!-- THIRD STEP -->
+		<Media id="pageCountThirdStep" reference="geral default" width="331" height="61" url="ThirdStep\paginacao_03.png"/>
+		<Media id="keyboardBgThirdStep" reference="geral default" width="1920" height="799" url="ThirdStep\nomepeixe-bg-teclado.png"/>
+		<Media id="fishTextAreaBgThirdStep" reference="geral default" width="955" height="56" url="ThirdStep\nomepeixe-bg-campotexto.png"/>
+
+		<!-- FOURTH STEP -->
+		<Media id="pageCountFourthStep" reference="geral default" width="331" height="61" url="FourthStep\paginacao_04.png"/>
+		<Media id="bgDadosFourthStep" reference="geral default" width="1050" height="378" url="FourthStep\bg-formulario-dados.png"/>
+		<Media id="btnEndFourthStep" reference="geral default" width="275" height="88" url="FourthStep\botao-finalizar.png"/>
+		<Media id="keyboardBgFourthStep" reference="geral default" width="1050" height="445" url="FourthStep\dados-bg-teclado.png"/>
+		<Media id="dataBgFourthStep" reference="geral default" width="454" height="56" url="FourthStep\form-bg-dados.png"/>
+		<Media id="dataFocusBgFourthStep" reference="geral default" width="454" height="56" url="FourthStep\borda-campo-texto-focus.png"/>
+		<Media id="dataErrorBgFourthStep" reference="geral default" width="454" height="56" url="FourthStep\borda-campo-texto-erro.png"/>
+
+		<!-- FINAL STEP -->
+		<Media id="ballonImageFinalStep" reference="geral default" width="1153" height="314" url="FinalStep\bg-texto-boasvindas.png"/>
+
+		<!-- CANCEL SCREEN -->
+		<Media id="modalCancelScreen" reference="geral default" width="684" height="313" url="Cancelar\BG_Dialog_Calcelar.png"/>
+		<Media id="btnYesUpCancelScreen" reference="geral default" width="183" height="65" url="Cancelar\Bt_Cancelar_Press_Sim.png"/>
+		<Media id="btnYesDownCancelScreen" reference="geral default" width="183" height="65" url="Cancelar\Bt_Cancelar_Sim.png"/>
+		<Media id="btnNoUpCancelScreen" reference="geral default" width="183" height="65" url="Cancelar\Bt_Cancelar_Press_Nao.png"/>
+		<Media id="btnNoDownCancelScreen" reference="geral default" width="183" height="65" url="Cancelar\Bt_Cancelar_Nao.png"/>
+		
+		<!-- ERROR -->
+		<Media id="btnOkError" reference="geral default" width="183" height="65" url="Error\Bt_Error_Press.png"/>
+		<Media id="btnOkDownError" reference="geral default" width="183" height="65" url="Error\Bt_Error.png"/>
+
+	</Images>
+
+	<Texts>
+		<!-- SCREENSAVER -->
+		<Text id="peixeScreensaverTextArea1Texto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=100>Peixe Virtual</size></color>]]>
+		</Text> 
+		<Text id="peixeScreensaverTextArea2Texto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=55>Virtual Fish</size></color>]]>
+		</Text> 
+		<Text id="cartaoScreensaverTextAreaTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=18>Passe o seu cartão para começar.</size></color>]]>
+		</Text> 
+
+		<!-- LOADING -->
+		<Text id="textAreaPtLoadingTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=25>Por favor guarde enquanto validamos o seu cartão.</size></color>]]>
+		</Text> 
+		<Text id="textAreaEnLoadingTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=20>Please wait while we validate your card.</size></color>]]>
+		</Text> 
+
+		<!-- TUTORIAL -->
+		<Text id="textAreaTitlePtTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=65>Como criar seu peixe virtual:</size></color>]]>
+		</Text> 
+		<Text id="textAreaTitleEnTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=35>How to create your virtual fish:</size></color>]]>
+		</Text> 
+
+		<Text id="termoUsoTitlePtTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=65>Termos de Uso</size></color>]]>
+		</Text> 
+		<Text id="termoUsoTitleEnTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=35>Terms of use</size></color>]]>
+		</Text> 
+
+		<Text id="firstStepTextPtTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=24>Selecione o modelo.</size></color>]]>
+		</Text> 
+		<Text id="firstStepTextEnTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=16>Select the model.</size></color>]]>
+		</Text> 
+
+		<Text id="secondStepTextPtTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=24>Personalize o seu peixe.</size></color>]]>
+		</Text> 
+		<Text id="secondStepTextEnTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=16>Customize your fish.</size></color>]]>
+		</Text> 
+
+		<Text id="thirdStepTextPtTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=24>Dê um nome a seu peixe<br>e brinque com ele no aquário.</size></color>]]>
+		</Text> 
+		<Text id="thirdStepTextEnTutorialTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=16>Give a name to your fish<br>and play with him in the aquarium.</size></color>]]>
+		</Text> 
+
+		<!-- FIRST STEP -->
+		<Text id="textAreaTitlePtFirstStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=45>Escolha o modelo do seu peixe.</size></color>]]>
+		</Text> 
+		<Text id="textAreaTitleEnFirstStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=18>Choose the model of your fish.</size></color>]]>
+		</Text> 
+
+		<!-- SECOND STEP -->
+		<Text id="textAreaTitlePtSecondStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=45>Personalize seu peixe.</size></color>]]>
+		</Text> 
+		<Text id="textAreaTitleEnSecondStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=18>Personalize your fish.</size></color>]]>
+		</Text> 
+		<Text id="ballonClickTextPtSecondStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#ffffff><size=20>TOQUE E ESCOLHA O PADRÃO</size></color>]]>
+		</Text> 
+		<Text id="ballonClickTextEnSecondStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=17>Touch and choose the pattern</size></color>]]>
+		</Text> 
+		<Text id="ballonSlideTextPtSecondStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#ffffff><size=20>ARRASTE E DEFINA AS CORES</size></color>]]>
+		</Text> 
+		<Text id="ballonSlideTextEnSecondStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=17>Slide and choose the color</size></color>]]>
+		</Text> 
+
+		<Text id="btnSlider1NamePtSecondStepTexto" reference="acesso rapido image text" autoSize="right" font="Gotham_Bold">
+			<![CDATA[<color=#ffffff><size=18>Padrão</size></color>]]>
+		</Text>  
+		<Text id="btnSlider1NameEnSecondStepTexto" reference="acesso rapido image text" autoSize="right" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=14>Pattern</size></color>]]>
+		</Text>  
+
+		<Text id="btnSlider2NamePtSecondStepTexto" reference="acesso rapido image text" autoSize="right" font="Gotham_Bold">
+			<![CDATA[<color=#ffffff><size=18>Corpo</size></color>]]>
+		</Text>  
+		<Text id="btnSlider2NameEnSecondStepTexto" reference="acesso rapido image text" autoSize="right" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=14>Body</size></color>]]>
+		</Text>  
+
+		<Text id="btnSlider3NamePtSecondStepTexto" reference="acesso rapido image text" autoSize="right" font="Gotham_Bold">
+			<![CDATA[<color=#ffffff><size=18>Nadadeira</size></color>]]>
+		</Text>  
+		<Text id="btnSlider3NameEnSecondStepTexto" reference="acesso rapido image text" autoSize="right" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=14>Fin</size></color>]]>
+		</Text>  
+
+		<Text id="btnSlider4NamePtSecondStepTexto" reference="acesso rapido image text" autoSize="right" font="Gotham_Bold">
+			<![CDATA[<color=#ffffff><size=18>Olhos</size></color>]]>
+		</Text>  
+		<Text id="btnSlider4NameEnSecondStepTexto" reference="acesso rapido image text" autoSize="right" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=14>Eyes</size></color>]]>
+		</Text>  
+
+		<!-- THIRD STEP -->
+		<Text id="textAreaTitlePtThirdStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=45>Dê um nome ao seu peixe.</size></color>]]>
+		</Text> 
+		<Text id="textAreaTitleEnThirdStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=18>Give a name to your fish.</size></color>]]>
+		</Text> 
+		<Text id="textAreaFishNameThirdStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Light">
+			<![CDATA[<color=#ffffff><size=22>Nome do peixe aqui</size></color>]]>
+		</Text> 
+
+		<!-- FOURTH STEP -->
+		<Text id="textAreaTitlePtFourthStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=45>Preencha seus dados.</size></color>]]>
+		</Text> 
+		<Text id="textAreaTitleEnFourthStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=18>Fill in your details.</size></color>]]>
+		</Text> 
+		<!-- FORM -->
+		<Text id="formNameTitleFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=22>Seu nome / </size><size=15>Your name</size></color><color=#ffd21e><size=22>*</size></color>]]>
+		</Text> 		
+		<Text id="formNameInputFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Light">
+			<![CDATA[<color=#ffffff><size=22></size></color>]]>
+		</Text> 
+
+		<Text id="formAgeTitleFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=22>Data de nascimento / </size><size=15>Date of birth</size></color><color=#ffd21e><size=22>*</size></color>]]>
+		</Text> 		
+		<Text id="formAgeInputFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Light">
+			<![CDATA[<color=#ffffff><size=22></size></color>]]>
+		</Text> 
+
+		<Text id="formSexTitleFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=22>Seu sexo / </size><size=15>Your gender</size></color><color=#ffd21e><size=22>*</size></color>]]>
+		</Text> 		
+		<Text id="formSexMaleText" reference="acesso rapido image text" autoSize="left" font="Gotham_Light">
+			<![CDATA[<color=#ffffff><size=22>Masculino (Male)</size></color>]]>
+		</Text> 	
+		<Text id="formSexFemaleText" reference="acesso rapido image text" autoSize="left" font="Gotham_Light">
+			<![CDATA[<color=#ffffff><size=22>Feminino (Female)</size></color>]]>
+		</Text> 
+
+		<Text id="formEmailTitleFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=22>Seu e-mail / </size><size=15>Your email</size></color><color=#ffd21e><size=22>*</size></color>]]>
+		</Text> 		
+		<Text id="formEmailInputFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Light">
+			<![CDATA[<color=#ffffff><size=22></size></color>]]>
+		</Text> 
+
+		<Text id="formCountryTitleFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=22>Seu país / </size><size=15>Your country</size></color><color=#ffd21e><size=22>*</size></color>]]>
+		</Text> 		
+		<Text id="formCountryInputFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Light">
+			<![CDATA[<color=#ffffff><size=22></size></color>]]>
+		</Text> 
+			
+
+		<Text id="formStateTitleFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=22>Seu estado / </size><size=15>Your state</size></color><color=#ffd21e><size=22>*</size></color>]]>
+		</Text> 		
+		<Text id="formStateInputFourthStepTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Light">
+			<![CDATA[<color=#ffffff><size=22></size></color>]]>
+		</Text> 
+
+		<!-- FINAL STEP -->
+		<Text id="ballonTextPtFinalStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#ffffff><size=45>Olá, %n1, eu sou o %n2!<br>Serei seu amigo no AquaRio, vamos passear?</size></color>]]>
+		</Text> 
+		<Text id="ballonTextEnFinalStepTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=20>Olá, %n1, eu sou o %n2!<br>Serei seu amigo no AquaRio, vamos passear?</size></color>]]>
+		</Text> 
+
+		<!-- CANCEL SCREEN -->
+		<Text id="questionPtCancelScreenTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=22>Você está prestes a cancelar a criação do seu peixe.<br>Este procedimento é irreversível. Deseja prosseguir?</size></color>]]>
+		</Text> 
+		<Text id="questionEnCancelScreenTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=16>You are about to cancel the process of creating a fish.<br>This procedure is irreversible. Do you want to continue?</size></color>]]>
+		</Text> 
+
+		<!-- TUTORIAL LOREM IPSUM -->
+		<Text id="tutorialTermosUsoTexto" reference="acesso rapido image text" autoSize="left" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur tortor eu ornare cursus. Nunc suscipit, urna eu vehicula blandit, metus lorem cursus ante, ut congue libero sem sit amet augue. Etiam augue ligula, tincidunt ut mauris tempus, elementum vulputate arcu. Phasellus bibendum at est vel tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi lectus nibh, blandit vitae lectus sed, aliquam finibus dolor. Cras ut interdum turpis, in pharetra nibh.Duis vel porta urna. Curabitur odio nisl, suscipit tristique maximus commodo, accumsan quis leo. Vivamus efficitur metus dignissim lorem dapibus fringilla. Maecenas ornare consectetur semper. Nam eleifend ex mauris, sed tincidunt lacus lobortis vel. Phasellus pulvinar dui facilisis erat sollicitudin dapibus. Praesent at vehicula diam. Nam ornare sodales quam vel rhoncus. Cras porta molestie odio a ornare. Nam tempus luctus lectus vel sodales. Praesent fermentum ut lacus id viverra. Nullam ac consectetur turpis. Nunc et magna ex. Proin sed urna et turpis mollis mollis et sit amet neque. Fusce vel ipsum accumsan, pretium elit eget, aliquet nisi. Nulla rhoncus eros in elit pretium, ut suscipit leo sodales.Sed luctus volutpat leo ac porta. Nam ut massa at lorem hendrerit aliquam a in eros. Nulla cursus magna ut libero maximus, eget commodo est lobortis. Fusce et lectus tempor, dignissim metus a, viverra lacus. Sed nec est pharetra, tincidunt leo id, condimentum magna. Mauris lectus leo, hendrerit vel vestibulum in, tincidunt eget lacus. Sed ut feugiat orci, vel finibus est. Etiam luctus sapien felis, nec eleifend leo condimentum at. Mauris tristique iaculis urna, blandit pretium tellus consectetur in. Integer fringilla, nunc eget gravida mollis, urna libero dapibus nibh, non malesuada turpis dui eget metus. Fusce consectetur feugiat enim id luctus. Proin leo libero, molestie eleifend justo sed, commodo feugiat dolor. Fusce posuere metus ac odio mattis efficitur. In et magna scelerisque, congue nisi in, sodales nisi. Aenean viverra nibh sit amet placerat placerat.Nunc tincidunt nibh varius tristique rutrum. Pellentesque consectetur nisl erat. Phasellus nec metus feugiat, pellentesque ex non, rhoncus magna. Nunc nunc est, suscipit vel turpis sit amet, pellentesque consequat orci. Nulla ultrices facilisis nulla, tincidunt lobortis augue bibendum vitae. Nulla dictum vehicula mi, in gravida erat accumsan eleifend. Vestibulum pulvinar sit amet metus at condimentum. Vivamus pretium, sem ut viverra tempor, magna odio facilisis purus, in imperdiet odio quam id augue. Donec sem arcu, cursus nec fringilla vitae, aliquam sit amet dolor.Duis et facilisis libero. Pellentesque porttitor est ac laoreet condimentum. Curabitur eu facilisis lectus, ut laoreet risus. Mauris venenatis turpis maximus pulvinar viverra. Ut sit amet rutrum quam. Integer sem nulla, dignissim ut urna vitae, egestas venenatis urna. Suspendisse iaculis urna convallis commodo ullamcorper.Cras in lacinia lectus. Morbi sapien odio, euismod ut est ac, condimentum dignissim quam. Proin consectetur lacinia quam, aliquam aliquam arcu lobortis id. Proin velit nunc, venenatis in quam mollis, dapibus suscipit mi. Mauris quis elit nec urna blandit bibendum. Ut vitae turpis sit amet tellus ultrices tempor. Integer condimentum interdum neque, sed facilisis enim vehicula eu. Morbi molestie nisi vel nibh finibus rhoncus. Quisque purus eros, mollis ac leo quis, condimentum convallis quam. Nulla malesuada lorem leo, in fermentum massa gravida sed. Morbi vel commodo neque, in condimentum risus. Donec commodo augue odio, dictum bibendum tortor dapibus nec. Morbi ut lorem a sapien luctus auctor rutrum sed nunc. Duis euismod justo vitae ante pulvinar luctus. Nullam malesuada convallis feugiat. Ut neque magna, ullamcorper ut magna vitae, pharetra rutrum ipsum.Quisque tincidunt erat finibus arcu dictum, eget hendrerit odio volutpat. Proin ut elementum ex. Vivamus aliquam sed orci et imperdiet. Aliquam sit amet efficitur eros. Praesent maximus lobortis nisi, eget consequat mi feugiat vel. Vestibulum interdum lectus nec velit blandit commodo. Sed a fermentum massa, porttitor egestas ipsum. Curabitur sollicitudin elementum malesuada. Maecenas fermentum sit amet lectus rhoncus ultrices. Vestibulum facilisis egestas congue. Donec vitae velit sed lectus pulvinar convallis ac ac est. Maecenas at luctus turpis. Quisque suscipit, augue interdum semper pulvinar, nibh metus scelerisque nulla, eget pretium mauris ex non erat. Vivamus vel elit at nulla aliquam tempor a ut arcu. Phasellus sed egestas leo, ut ultrices lacus. Mauris a lacinia magna, quis convallis nisl.Sed in ipsum odio. Nulla sollicitudin ac odio a dapibus. Maecenas blandit mi vel mauris condimentum aliquam. Etiam volutpat nisi vel iaculis suscipit. Curabitur fringilla tellus ut eleifend interdum. Proin a euismod leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur ultricies sit amet magna sit amet efficitur. Curabitur maximus, eros quis gravida consequat, lectus erat condimentum leo, sed ultricies enim diam et dolor.Aenean eget condimentum nisi, a sodales ante. In tempor lectus suscipit, feugiat leo a, porttitor mauris. Fusce at metus ut risus consectetur dapibus. Vestibulum sapien sapien, porttitor a ex in, vehicula ornare nulla. Aenean blandit, massa ut rutrum dignissim, sapien dui egestas tellus, sit amet sagittis turpis turpis at neque. Vestibulum blandit, urna at suscipit aliquet, est risus hendrerit orci, eget vehicula leo diam sit amet nunc. Maecenas aliquet condimentum felis at pellentesque.Nam faucibus at elit ornare blandit. Donec nec enim et metus eleifend tempor vulputate in quam. Pellentesque a purus ac lorem egestas bibendum maximus ut lorem. Nunc ut arcu eget urna vehicula aliquam in quis purus. Nunc vitae orci ut quam commodo semper sed eget metus. Maecenas eu augue at elit maximus condimentum id sit amet nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas id nisl pulvinar, tincidunt dui eu, tristique mauris. Suspendisse ut odio ex. Donec congue vel nisl sed sollicitudin. Fusce vitae bibendum odio, in ullamcorper tortor. Donec diam justo, laoreet id ipsum ac, interdum lacinia velit. Morbi ex urna, pharetra non quam vel, mollis vestibulum diam.</size></color>]]>
+		</Text> 
+		
+		<!-- LOADING ASSETS -->
+		<Text id="textAreaPtLoadingAssetsTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=25>Por favor aguarde enquanto baixamos os conteúdos.</size></color>]]>
+		</Text> 
+		<Text id="textAreaEnLoadingAssetsTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=20>Please wait while we download content.</size></color>]]>
+		</Text> 
+		
+		<!-- SEND DATA -->
+		<Text id="textAreaPtSendDataTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#faca12><size=25>Por favor aguarde enquanto salvamos seus dados.</size></color>]]>
+		</Text> 
+		<Text id="textAreaEnSendDataTexto" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#ffffff><size=20>Please wait while we save your data.</size></color>]]>
+		</Text>
+		
+		<!-- ERRROR -->
+		<Text id="textAreaRegisterUserPtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>Não foi possivel realizar o cadastro.<br>Tente novamente mais tarde.</size></color>]]>
+		</Text> 
+		<Text id="textAreaRegisterUserEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>Could not make the register.<br>Try again later.</size></color>]]>
+		</Text>
+		
+		<Text id="textAreaValidateRFIDPtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>Não foi possivel validar o cartão.<br>Tente novamente mais tarde.</size></color>]]>
+		</Text> 
+		<Text id="textAreaValidateRFIDEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>Could not validate the card.<br>Try again later.</size></color>]]>
+		</Text>
+		
+		<Text id="textAreaFishNamePtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>O Campo nome não é valido.</size></color>]]>
+		</Text> 
+		
+		<Text id="textAreaFishNameEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>The name field is not valid.</size></color>]]>
+		</Text>
+		
+		<Text id="textAreaNamePtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>O Campo nome não é valido.</size></color>]]>
+		</Text> 
+		
+		<Text id="textAreaNameEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>The name field is not valid.</size></color>]]>
+		</Text>
+		
+		<Text id="textAreaAgePtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>O Campo data de nascimento não é valido.<br>(DD/MM/YYYY)</size></color>]]>
+		</Text> 
+		<Text id="textAreaAgeEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>The date of birth field is not valid.<br>(DD/MM/YYYY)</size></color>]]>
+		</Text>
+		
+		<Text id="textAreaEmailPtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>O Campo e-mail não é valido.</size></color>]]>
+		</Text> 
+		<Text id="textAreaEmailEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>The e-mail field is not valid.</size></color>]]>
+		</Text>
+		
+		<Text id="textAreaCountryPtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>O Campo país não é valido.</size></color>]]>
+		</Text> 
+		<Text id="textAreaCountryEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>The country field is not valid.</size></color>]]>
+		</Text>
+		
+		<Text id="textAreaStatePtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>O Campo estado não é valido.</size></color>]]>
+		</Text> 
+		<Text id="textAreaStateEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>The state field is not valid.</size></color>]]>
+		</Text>
+		
+		<Text id="textSelectFishPtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>Nenhum peixe selecionado.</size></color>]]>
+		</Text> 
+		<Text id="textSelectFishEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>None selected fish.</size></color>]]>
+		</Text>
+		
+		<Text id="textSelectSkinPtErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Bold">
+			<![CDATA[<color=#000000><size=25>Nenhum escama selecionada.</size></color>]]>
+		</Text> 
+		<Text id="textSelectSkinEnErro" reference="acesso rapido image text" autoSize="center" font="Gotham_Book">
+			<![CDATA[<color=#000000><size=20>None selected skin.</size></color>]]>
+		</Text>
+	</Texts>
+	
+</Medias>

@@ -1,0 +1,39 @@
+<View id="LoadingAssets" width="1920" height="1080" x="0" y="0" correctY="true" script="LoadingAssetsScript" origPosition="">
+	<Components>
+		<Component type="IMAGE" id="fundoLoading" imageId="fundoLoading" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="logoCocacolaLoading" imageId="logoCocacola" description="acesso rapido image" x="50" y="980" objWidth="177" objHeight="62" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="peixeLoading" imageId="peixeLoading" description="acesso rapido image" x="920" y="507" objWidth="81" objHeight="66" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="loadBarLoading" imageId="loadBarLoading" description="acesso rapido image" x="872" y="452" objWidth="176" objHeight="176" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="textAreaPtLoading" description="bread crumb text area" x="960" y="620" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaPtLoadingAssetsTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="textAreaEnLoading" description="bread crumb text area" x="960" y="650" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaEnLoadingAssetsTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+	</Components>
+</View>

@@ -1,0 +1,15 @@
+<Medias>
+	<Images>
+		<Media id="blueButton" reference="geral default" width="53" height="52" url="botao\blueButton.png"/>
+		<Media id="greenButton" reference="geral default" width="53" height="52" url="botao\greenButton.png"/>
+		<Media id="chip" reference="geral default" width="53" height="52" url="chip_base_areas_apagadas.png"/>
+	</Images>
+	<Texts>
+		<Text id="PrevidenciaSimulacaoPrevJovemResultadoRefazerSimulacaoText" reference="previdencia titulo home">
+			<text autoSize='center'><![CDATA[<p align='center'><font face='NewJuneBold' size='20' color='#FFFFFF'>refazer simulação</font></p>]]></text>
+		</Text>
+		<Text id="PrevidenciaSimulacaoPrevJovemResultadoRefazerSimulacaoText" reference="previdencia titulo home">
+			<text autoSize='center'><![CDATA[<p align='center'><font face='NewJuneBold' size='20' color='#FFFFFF'>refazer simulação</font></p>]]></text>
+		</Text>
+	</Texts>
+</Medias>

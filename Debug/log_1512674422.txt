@@ -1,0 +1,166 @@
+Projeto iniciado. 07/12/2017 17:20:22
+tempMediaModel = blank - UnityEngine.Sprite[] - geral\blank.png
+tempMediaModel = btnCancelar - UnityEngine.Sprite[] - geral\Bt_Cancelar.png
+tempMediaModel = fundoScreensaver - UnityEngine.Sprite[] - Screensaver\screensaver-bgwave.png
+tempMediaModel = logoCocacola - UnityEngine.Sprite[] - Screensaver\logo-coca-175x61.png
+tempMediaModel = logoScreensaver - UnityEngine.Sprite[] - Screensaver\screensaver-logoAquaRio.png
+tempMediaModel = peixeScreensaver - UnityEngine.Sprite[] - Screensaver\screensaver-logo.png
+tempMediaModel = cartaoScreensaver - UnityEngine.Sprite[] - Screensaver\screensaver-icon-cartao.png
+tempMediaModel = fundoLoading - UnityEngine.Sprite[] - Loading\tutorial-bg.png
+tempMediaModel = peixeLoading - UnityEngine.Sprite[] - Loading\load-peixe.png
+tempMediaModel = loadBarLoading - UnityEngine.Sprite[] - Loading\load-bar.png
+tempMediaModel = touchToBeginOffTutorial - UnityEngine.Sprite[] - Tutorial\tutorial-botao-comecar.png
+tempMediaModel = firstStepTutorial - UnityEngine.Sprite[] - Tutorial\tutorial-01-selecione.png
+tempMediaModel = secondStepTutorial - UnityEngine.Sprite[] - Tutorial\tutorial-02-personalize.png
+tempMediaModel = thirdStepTutorial - UnityEngine.Sprite[] - Tutorial\tutorial-03-nome.png
+tempMediaModel = arrowTutorial - UnityEngine.Sprite[] - Tutorial\tutorial-seta.png
+tempMediaModel = termoUsoBgTutorial - UnityEngine.Sprite[] - Tutorial\termodeuso-bg-modal.png
+tempMediaModel = termoUsoBoxTutorial - UnityEngine.Sprite[] - Tutorial\termodeuso-bg-texto.png
+tempMediaModel = termoUsoBtnTutorial - UnityEngine.Sprite[] - Tutorial\termouso--bt-aceitar.png
+tempMediaModel = termoUsoCloseBtnTutorial - UnityEngine.Sprite[] - Tutorial\termouso-bt-fechar.png
+tempMediaModel = termoUsoUpArrowOffTutorial - UnityEngine.Sprite[] - Tutorial\termodeuso-bt-scroll-up-out.png
+tempMediaModel = termoUsoUpArrowOnTutorial - UnityEngine.Sprite[] - Tutorial\termodeuso-bt-scroll-up-onpress.png
+tempMediaModel = termoUsoDownArrowOffTutorial - UnityEngine.Sprite[] - Tutorial\termodeuso-bt-scroll-down-out.png
+tempMediaModel = termoUsoDownArrowOnTutorial - UnityEngine.Sprite[] - Tutorial\termodeuso-bt-scroll-down-onpress.png
+tempMediaModel = pageCountFirstStep - UnityEngine.Sprite[] - FirstStep\paginacao_01.png
+tempMediaModel = btnBackOffFirstStep - UnityEngine.Sprite[] - FirstStep\navegacao-anterior-on.png
+tempMediaModel = btnBackOnFirstStep - UnityEngine.Sprite[] - FirstStep\navegacao-anterior-off.png
+tempMediaModel = btnForwardOffFirstStep - UnityEngine.Sprite[] - FirstStep\navegacao-proximo-on.png
+tempMediaModel = btnForwardOnFirstStep - UnityEngine.Sprite[] - FirstStep\navegacao-proximo-off.png
+tempMediaModel = btnOptionOffFirstStep - UnityEngine.Sprite[] - FirstStep\bt-bolha-pequena-off.png
+tempMediaModel = btnOptionOnFirstStep - UnityEngine.Sprite[] - FirstStep\bt-bolha-pequena-on.png
+tempMediaModel = pageCountSecondStep - UnityEngine.Sprite[] - SecondStep\paginacao_02.png
+tempMediaModel = bubblesBgSecondStep - UnityEngine.Sprite[] - SecondStep\personalize-bg-peixe-transparent.png
+tempMediaModel = personalizeBtnOffSecondStep - UnityEngine.Sprite[] - SecondStep\personalize-bg-escama-off.png
+tempMediaModel = personalizeBtnOnSecondStep - UnityEngine.Sprite[] - SecondStep\personalize-bg-escama-on.png
+tempMediaModel = ballonClickSecondStep - UnityEngine.Sprite[] - SecondStep\personalize-bgtitulo-toque.png
+tempMediaModel = ballonSlideSecondStep - UnityEngine.Sprite[] - SecondStep\personalize-bgtitulo-arraste.png
+tempMediaModel = slider1BackgroundSecondStep - UnityEngine.Sprite[] - SecondStep\personalize-pattern-escama.png
+tempMediaModel = slider1FillSecondStep - UnityEngine.Sprite[] - SecondStep\PeixeVirtual-Barra-Controle.png
+tempMediaModel = slider1HandleSecondStep - UnityEngine.Sprite[] - SecondStep\PeixeVirtual-BtDrag-Controle.png
+tempMediaModel = slider2BackgroundSecondStep - UnityEngine.Sprite[] - SecondStep\personalize-pattern-corpo.png
+tempMediaModel = slider3BackgroundSecondStep - UnityEngine.Sprite[] - SecondStep\personalize-pattern-barbatana.png
+tempMediaModel = slider4BackgroundSecondStep - UnityEngine.Sprite[] - SecondStep\personalize-pattern-olhos.png
+tempMediaModel = escama0Peixe0 - UnityEngine.Sprite[] - SecondStep\DetalhesGroupa1.png
+tempMediaModel = escama1Peixe0 - UnityEngine.Sprite[] - SecondStep\escama2.jpg
+tempMediaModel = escama2Peixe0 - UnityEngine.Sprite[] - SecondStep\escama3.jpg
+tempMediaModel = escama3Peixe0 - UnityEngine.Sprite[] - SecondStep\escama4.jpg
+tempMediaModel = escama0Peixe1 - UnityEngine.Sprite[] - SecondStep\escama1.jpg
+tempMediaModel = escama1Peixe1 - UnityEngine.Sprite[] - SecondStep\escama2.jpg
+tempMediaModel = escama2Peixe1 - UnityEngine.Sprite[] - SecondStep\escama3.jpg
+tempMediaModel = escama3Peixe1 - UnityEngine.Sprite[] - SecondStep\escama4.jpg
+tempMediaModel = escama0Peixe2 - UnityEngine.Sprite[] - SecondStep\escama1.jpg
+tempMediaModel = escama1Peixe2 - UnityEngine.Sprite[] - SecondStep\escama2.jpg
+tempMediaModel = escama2Peixe2 - UnityEngine.Sprite[] - SecondStep\escama3.jpg
+tempMediaModel = escama3Peixe2 - UnityEngine.Sprite[] - SecondStep\escama4.jpg
+tempMediaModel = escama0Peixe3 - UnityEngine.Sprite[] - SecondStep\escama1.jpg
+tempMediaModel = escama1Peixe3 - UnityEngine.Sprite[] - SecondStep\escama2.jpg
+tempMediaModel = escama2Peixe3 - UnityEngine.Sprite[] - SecondStep\escama3.jpg
+tempMediaModel = escama3Peixe3 - UnityEngine.Sprite[] - SecondStep\escama4.jpg
+tempMediaModel = escama0Peixe4 - UnityEngine.Sprite[] - SecondStep\escama1.jpg
+tempMediaModel = escama1Peixe4 - UnityEngine.Sprite[] - SecondStep\escama2.jpg
+tempMediaModel = escama2Peixe4 - UnityEngine.Sprite[] - SecondStep\escama3.jpg
+tempMediaModel = escama3Peixe4 - UnityEngine.Sprite[] - SecondStep\escama4.jpg
+tempMediaModel = escama0Peixe5 - UnityEngine.Sprite[] - SecondStep\escama1.jpg
+tempMediaModel = escama1Peixe5 - UnityEngine.Sprite[] - SecondStep\escama2.jpg
+tempMediaModel = escama2Peixe5 - UnityEngine.Sprite[] - SecondStep\escama3.jpg
+tempMediaModel = escama3Peixe5 - UnityEngine.Sprite[] - SecondStep\escama4.jpg
+tempMediaModel = escamasMask - UnityEngine.Sprite[] - SecondStep\mask2.png
+tempMediaModel = pageCountThirdStep - UnityEngine.Sprite[] - ThirdStep\paginacao_03.png
+tempMediaModel = keyboardBgThirdStep - UnityEngine.Sprite[] - ThirdStep\nomepeixe-bg-teclado.png
+tempMediaModel = fishTextAreaBgThirdStep - UnityEngine.Sprite[] - ThirdStep\nomepeixe-bg-campotexto.png
+tempMediaModel = pageCountFourthStep - UnityEngine.Sprite[] - FourthStep\paginacao_04.png
+tempMediaModel = bgDadosFourthStep - UnityEngine.Sprite[] - FourthStep\bg-formulario-dados.png
+tempMediaModel = btnEndFourthStep - UnityEngine.Sprite[] - FourthStep\botao-finalizar.png
+tempMediaModel = keyboardBgFourthStep - UnityEngine.Sprite[] - FourthStep\dados-bg-teclado.png
+tempMediaModel = dataBgFourthStep - UnityEngine.Sprite[] - FourthStep\form-bg-dados.png
+tempMediaModel = dataFocusBgFourthStep - UnityEngine.Sprite[] - FourthStep\borda-campo-texto-focus.png
+tempMediaModel = dataErrorBgFourthStep - UnityEngine.Sprite[] - FourthStep\borda-campo-texto-erro.png
+tempMediaModel = ballonImageFinalStep - UnityEngine.Sprite[] - FinalStep\bg-texto-boasvindas.png
+tempMediaModel = modalCancelScreen - UnityEngine.Sprite[] - Cancelar\BG_Dialog_Calcelar.png
+tempMediaModel = btnYesUpCancelScreen - UnityEngine.Sprite[] - Cancelar\Bt_Cancelar_Press_Sim.png
+tempMediaModel = btnYesDownCancelScreen - UnityEngine.Sprite[] - Cancelar\Bt_Cancelar_Sim.png
+tempMediaModel = btnNoUpCancelScreen - UnityEngine.Sprite[] - Cancelar\Bt_Cancelar_Press_Nao.png
+tempMediaModel = btnNoDownCancelScreen - UnityEngine.Sprite[] - Cancelar\Bt_Cancelar_Nao.png
+tempMediaModel = btnOkError - UnityEngine.Sprite[] - Error\Bt_Error_Press.png
+tempMediaModel = btnOkDownError - UnityEngine.Sprite[] - Error\Bt_Error.png
+text xml lenght = 78
+tempMediaText = peixeScreensaverTextArea1Texto - acesso rapido image text - center - <color=#faca12><size=100>Peixe Virtual</size></color>
+tempMediaText = peixeScreensaverTextArea2Texto - acesso rapido image text - center - <color=#ffffff><size=55>Virtual Fish</size></color>
+tempMediaText = cartaoScreensaverTextAreaTexto - acesso rapido image text - center - <color=#ffffff><size=18>Passe o seu cartão para começar.</size></color>
+tempMediaText = textAreaPtLoadingTexto - acesso rapido image text - center - <color=#faca12><size=25>Por favor guarde enquanto validamos o seu cartão.</size></color>
+tempMediaText = textAreaEnLoadingTexto - acesso rapido image text - center - <color=#ffffff><size=20>Please wait while we validate your card.</size></color>
+tempMediaText = textAreaTitlePtTutorialTexto - acesso rapido image text - center - <color=#faca12><size=65>Como criar seu peixe virtual:</size></color>
+tempMediaText = textAreaTitleEnTutorialTexto - acesso rapido image text - center - <color=#ffffff><size=35>How to create your virtual fish:</size></color>
+tempMediaText = termoUsoTitlePtTutorialTexto - acesso rapido image text - center - <color=#faca12><size=65>Termos de Uso</size></color>
+tempMediaText = termoUsoTitleEnTutorialTexto - acesso rapido image text - center - <color=#ffffff><size=35>Terms of use</size></color>
+tempMediaText = firstStepTextPtTutorialTexto - acesso rapido image text - center - <color=#faca12><size=24>Selecione o modelo.</size></color>
+tempMediaText = firstStepTextEnTutorialTexto - acesso rapido image text - center - <color=#ffffff><size=16>Select the model.</size></color>
+tempMediaText = secondStepTextPtTutorialTexto - acesso rapido image text - center - <color=#faca12><size=24>Personalize o seu peixe.</size></color>
+tempMediaText = secondStepTextEnTutorialTexto - acesso rapido image text - center - <color=#ffffff><size=16>Customize your fish.</size></color>
+tempMediaText = thirdStepTextPtTutorialTexto - acesso rapido image text - center - <color=#faca12><size=24>Dê um nome a seu peixe<br>e brinque com ele no aquário.</size></color>
+tempMediaText = thirdStepTextEnTutorialTexto - acesso rapido image text - center - <color=#ffffff><size=16>Give a name to your fish<br>and play with him in the aquarium.</size></color>
+tempMediaText = textAreaTitlePtFirstStepTexto - acesso rapido image text - center - <color=#faca12><size=45>Escolha o modelo do seu peixe.</size></color>
+tempMediaText = textAreaTitleEnFirstStepTexto - acesso rapido image text - center - <color=#ffffff><size=18>Choose the model of your fish.</size></color>
+tempMediaText = textAreaTitlePtSecondStepTexto - acesso rapido image text - center - <color=#faca12><size=45>Personalize seu peixe.</size></color>
+tempMediaText = textAreaTitleEnSecondStepTexto - acesso rapido image text - center - <color=#ffffff><size=18>Personalize your fish.</size></color>
+tempMediaText = ballonClickTextPtSecondStepTexto - acesso rapido image text - center - <color=#ffffff><size=20>TOQUE E ESCOLHA O PADRÃO</size></color>
+tempMediaText = ballonClickTextEnSecondStepTexto - acesso rapido image text - center - <color=#ffffff><size=17>Touch and choose the pattern</size></color>
+tempMediaText = ballonSlideTextPtSecondStepTexto - acesso rapido image text - center - <color=#ffffff><size=20>ARRASTE E DEFINA AS CORES</size></color>
+tempMediaText = ballonSlideTextEnSecondStepTexto - acesso rapido image text - center - <color=#ffffff><size=17>Slide and choose the color</size></color>
+tempMediaText = btnSlider1NamePtSecondStepTexto - acesso rapido image text - right - <color=#ffffff><size=18>Padrão</size></color>
+tempMediaText = btnSlider1NameEnSecondStepTexto - acesso rapido image text - right - <color=#ffffff><size=14>Pattern</size></color>
+tempMediaText = btnSlider2NamePtSecondStepTexto - acesso rapido image text - right - <color=#ffffff><size=18>Corpo</size></color>
+tempMediaText = btnSlider2NameEnSecondStepTexto - acesso rapido image text - right - <color=#ffffff><size=14>Body</size></color>
+tempMediaText = btnSlider3NamePtSecondStepTexto - acesso rapido image text - right - <color=#ffffff><size=18>Nadadeira</size></color>
+tempMediaText = btnSlider3NameEnSecondStepTexto - acesso rapido image text - right - <color=#ffffff><size=14>Fin</size></color>
+tempMediaText = btnSlider4NamePtSecondStepTexto - acesso rapido image text - right - <color=#ffffff><size=18>Olhos</size></color>
+tempMediaText = btnSlider4NameEnSecondStepTexto - acesso rapido image text - right - <color=#ffffff><size=14>Eyes</size></color>
+tempMediaText = textAreaTitlePtThirdStepTexto - acesso rapido image text - center - <color=#faca12><size=45>Dê um nome ao seu peixe.</size></color>
+tempMediaText = textAreaTitleEnThirdStepTexto - acesso rapido image text - center - <color=#ffffff><size=18>Give a name to your fish.</size></color>
+tempMediaText = textAreaFishNameThirdStepTexto - acesso rapido image text - left - <color=#ffffff><size=22>Nome do peixe aqui</size></color>
+tempMediaText = textAreaTitlePtFourthStepTexto - acesso rapido image text - center - <color=#faca12><size=45>Preencha seus dados.</size></color>
+tempMediaText = textAreaTitleEnFourthStepTexto - acesso rapido image text - center - <color=#ffffff><size=18>Fill in your details.</size></color>
+tempMediaText = formNameTitleFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22>Seu nome / </size><size=15>Your name</size></color><color=#ffd21e><size=22>*</size></color>
+tempMediaText = formNameInputFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22></size></color>
+tempMediaText = formAgeTitleFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22>Data de nascimento / </size><size=15>Date of birth</size></color><color=#ffd21e><size=22>*</size></color>
+tempMediaText = formAgeInputFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22></size></color>
+tempMediaText = formSexTitleFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22>Seu sexo / </size><size=15>Your gender</size></color><color=#ffd21e><size=22>*</size></color>
+tempMediaText = formSexMaleText - acesso rapido image text - left - <color=#ffffff><size=22>Masculino (Male)</size></color>
+tempMediaText = formSexFemaleText - acesso rapido image text - left - <color=#ffffff><size=22>Feminino (Female)</size></color>
+tempMediaText = formEmailTitleFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22>Seu e-mail / </size><size=15>Your email</size></color><color=#ffd21e><size=22>*</size></color>
+tempMediaText = formEmailInputFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22></size></color>
+tempMediaText = formCountryTitleFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22>Seu país / </size><size=15>Your country</size></color><color=#ffd21e><size=22>*</size></color>
+tempMediaText = formCountryInputFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22></size></color>
+tempMediaText = formStateTitleFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22>Seu estado / </size><size=15>Your state</size></color><color=#ffd21e><size=22>*</size></color>
+tempMediaText = formStateInputFourthStepTexto - acesso rapido image text - left - <color=#ffffff><size=22></size></color>
+tempMediaText = ballonTextPtFinalStepTexto - acesso rapido image text - center - <color=#ffffff><size=45>Olá, %n1, eu sou o %n2!<br>Serei seu amigo no AquaRio, vamos passear?</size></color>
+tempMediaText = ballonTextEnFinalStepTexto - acesso rapido image text - center - <color=#ffffff><size=20>Olá, %n1, eu sou o %n2!<br>Serei seu amigo no AquaRio, vamos passear?</size></color>
+tempMediaText = questionPtCancelScreenTexto - acesso rapido image text - center - <color=#000000><size=22>Você está prestes a cancelar a criação do seu peixe.<br>Este procedimento é irreversível. Deseja prosseguir?</size></color>
+tempMediaText = questionEnCancelScreenTexto - acesso rapido image text - center - <color=#000000><size=16>You are about to cancel the process of creating a fish.<br>This procedure is irreversible. Do you want to continue?</size></color>
+tempMediaText = tutorialTermosUsoTexto - acesso rapido image text - left - <color=#000000><size=20>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur tortor eu ornare cursus. Nunc suscipit, urna eu vehicula blandit, metus lorem cursus ante, ut congue libero sem sit amet augue. Etiam augue ligula, tincidunt ut mauris tempus, elementum vulputate arcu. Phasellus bibendum at est vel tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi lectus nibh, blandit vitae lectus sed, aliquam finibus dolor. Cras ut interdum turpis, in pharetra nibh.Duis vel porta urna. Curabitur odio nisl, suscipit tristique maximus commodo, accumsan quis leo. Vivamus efficitur metus dignissim lorem dapibus fringilla. Maecenas ornare consectetur semper. Nam eleifend ex mauris, sed tincidunt lacus lobortis vel. Phasellus pulvinar dui facilisis erat sollicitudin dapibus. Praesent at vehicula diam. Nam ornare sodales quam vel rhoncus. Cras porta molestie odio a ornare. Nam tempus luctus lectus vel sodales. Praesent fermentum ut lacus id viverra. Nullam ac consectetur turpis. Nunc et magna ex. Proin sed urna et turpis mollis mollis et sit amet neque. Fusce vel ipsum accumsan, pretium elit eget, aliquet nisi. Nulla rhoncus eros in elit pretium, ut suscipit leo sodales.Sed luctus volutpat leo ac porta. Nam ut massa at lorem hendrerit aliquam a in eros. Nulla cursus magna ut libero maximus, eget commodo est lobortis. Fusce et lectus tempor, dignissim metus a, viverra lacus. Sed nec est pharetra, tincidunt leo id, condimentum magna. Mauris lectus leo, hendrerit vel vestibulum in, tincidunt eget lacus. Sed ut feugiat orci, vel finibus est. Etiam luctus sapien felis, nec eleifend leo condimentum at. Mauris tristique iaculis urna, blandit pretium tellus consectetur in. Integer fringilla, nunc eget gravida mollis, urna libero dapibus nibh, non malesuada turpis dui eget metus. Fusce consectetur feugiat enim id luctus. Proin leo libero, molestie eleifend justo sed, commodo feugiat dolor. Fusce posuere metus ac odio mattis efficitur. In et magna scelerisque, congue nisi in, sodales nisi. Aenean viverra nibh sit amet placerat placerat.Nunc tincidunt nibh varius tristique rutrum. Pellentesque consectetur nisl erat. Phasellus nec metus feugiat, pellentesque ex non, rhoncus magna. Nunc nunc est, suscipit vel turpis sit amet, pellentesque consequat orci. Nulla ultrices facilisis nulla, tincidunt lobortis augue bibendum vitae. Nulla dictum vehicula mi, in gravida erat accumsan eleifend. Vestibulum pulvinar sit amet metus at condimentum. Vivamus pretium, sem ut viverra tempor, magna odio facilisis purus, in imperdiet odio quam id augue. Donec sem arcu, cursus nec fringilla vitae, aliquam sit amet dolor.Duis et facilisis libero. Pellentesque porttitor est ac laoreet condimentum. Curabitur eu facilisis lectus, ut laoreet risus. Mauris venenatis turpis maximus pulvinar viverra. Ut sit amet rutrum quam. Integer sem nulla, dignissim ut urna vitae, egestas venenatis urna. Suspendisse iaculis urna convallis commodo ullamcorper.Cras in lacinia lectus. Morbi sapien odio, euismod ut est ac, condimentum dignissim quam. Proin consectetur lacinia quam, aliquam aliquam arcu lobortis id. Proin velit nunc, venenatis in quam mollis, dapibus suscipit mi. Mauris quis elit nec urna blandit bibendum. Ut vitae turpis sit amet tellus ultrices tempor. Integer condimentum interdum neque, sed facilisis enim vehicula eu. Morbi molestie nisi vel nibh finibus rhoncus. Quisque purus eros, mollis ac leo quis, condimentum convallis quam. Nulla malesuada lorem leo, in fermentum massa gravida sed. Morbi vel commodo neque, in condimentum risus. Donec commodo augue odio, dictum bibendum tortor dapibus nec. Morbi ut lorem a sapien luctus auctor rutrum sed nunc. Duis euismod justo vitae ante pulvinar luctus. Nullam malesuada convallis feugiat. Ut neque magna, ullamcorper ut magna vitae, pharetra rutrum ipsum.Quisque tincidunt erat finibus arcu dictum, eget hendrerit odio volutpat. Proin ut elementum ex. Vivamus aliquam sed orci et imperdiet. Aliquam sit amet efficitur eros. Praesent maximus lobortis nisi, eget consequat mi feugiat vel. Vestibulum interdum lectus nec velit blandit commodo. Sed a fermentum massa, porttitor egestas ipsum. Curabitur sollicitudin elementum malesuada. Maecenas fermentum sit amet lectus rhoncus ultrices. Vestibulum facilisis egestas congue. Donec vitae velit sed lectus pulvinar convallis ac ac est. Maecenas at luctus turpis. Quisque suscipit, augue interdum semper pulvinar, nibh metus scelerisque nulla, eget pretium mauris ex non erat. Vivamus vel elit at nulla aliquam tempor a ut arcu. Phasellus sed egestas leo, ut ultrices lacus. Mauris a lacinia magna, quis convallis nisl.Sed in ipsum odio. Nulla sollicitudin ac odio a dapibus. Maecenas blandit mi vel mauris condimentum aliquam. Etiam volutpat nisi vel iaculis suscipit. Curabitur fringilla tellus ut eleifend interdum. Proin a euismod leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur ultricies sit amet magna sit amet efficitur. Curabitur maximus, eros quis gravida consequat, lectus erat condimentum leo, sed ultricies enim diam et dolor.Aenean eget condimentum nisi, a sodales ante. In tempor lectus suscipit, feugiat leo a, porttitor mauris. Fusce at metus ut risus consectetur dapibus. Vestibulum sapien sapien, porttitor a ex in, vehicula ornare nulla. Aenean blandit, massa ut rutrum dignissim, sapien dui egestas tellus, sit amet sagittis turpis turpis at neque. Vestibulum blandit, urna at suscipit aliquet, est risus hendrerit orci, eget vehicula leo diam sit amet nunc. Maecenas aliquet condimentum felis at pellentesque.Nam faucibus at elit ornare blandit. Donec nec enim et metus eleifend tempor vulputate in quam. Pellentesque a purus ac lorem egestas bibendum maximus ut lorem. Nunc ut arcu eget urna vehicula aliquam in quis purus. Nunc vitae orci ut quam commodo semper sed eget metus. Maecenas eu augue at elit maximus condimentum id sit amet nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas id nisl pulvinar, tincidunt dui eu, tristique mauris. Suspendisse ut odio ex. Donec congue vel nisl sed sollicitudin. Fusce vitae bibendum odio, in ullamcorper tortor. Donec diam justo, laoreet id ipsum ac, interdum lacinia velit. Morbi ex urna, pharetra non quam vel, mollis vestibulum diam.</size></color>
+tempMediaText = textAreaPtLoadingAssetsTexto - acesso rapido image text - center - <color=#faca12><size=25>Por favor aguarde enquanto baixamos os conteúdos.</size></color>
+tempMediaText = textAreaEnLoadingAssetsTexto - acesso rapido image text - center - <color=#ffffff><size=20>Please wait while we download content.</size></color>
+tempMediaText = textAreaPtSendDataTexto - acesso rapido image text - center - <color=#faca12><size=25>Por favor aguarde enquanto salvamos seus dados.</size></color>
+tempMediaText = textAreaEnSendDataTexto - acesso rapido image text - center - <color=#ffffff><size=20>Please wait while we save your data.</size></color>
+tempMediaText = textAreaRegisterUserPtErro - acesso rapido image text - center - <color=#000000><size=25>Não foi possivel realizar o cadastro.<br>Tente novamente mais tarde.</size></color>
+tempMediaText = textAreaRegisterUserEnErro - acesso rapido image text - center - <color=#000000><size=20>Could not make the register.<br>Try again later.</size></color>
+tempMediaText = textAreaValidateRFIDPtErro - acesso rapido image text - center - <color=#000000><size=25>Não foi possivel validar o cartão.<br>Tente novamente mais tarde.</size></color>
+tempMediaText = textAreaValidateRFIDEnErro - acesso rapido image text - center - <color=#000000><size=20>Could not validate the card.<br>Try again later.</size></color>
+tempMediaText = textAreaFishNamePtErro - acesso rapido image text - center - <color=#000000><size=25>O Campo nome não é valido.</size></color>
+tempMediaText = textAreaFishNameEnErro - acesso rapido image text - center - <color=#000000><size=20>The name field is not valid.</size></color>
+tempMediaText = textAreaNamePtErro - acesso rapido image text - center - <color=#000000><size=25>O Campo nome não é valido.</size></color>
+tempMediaText = textAreaNameEnErro - acesso rapido image text - center - <color=#000000><size=20>The name field is not valid.</size></color>
+tempMediaText = textAreaAgePtErro - acesso rapido image text - center - <color=#000000><size=25>O Campo data de nascimento não é valido.<br>(DD/MM/YYYY)</size></color>
+tempMediaText = textAreaAgeEnErro - acesso rapido image text - center - <color=#000000><size=20>The date of birth field is not valid.<br>(DD/MM/YYYY)</size></color>
+tempMediaText = textAreaEmailPtErro - acesso rapido image text - center - <color=#000000><size=25>O Campo e-mail não é valido.</size></color>
+tempMediaText = textAreaEmailEnErro - acesso rapido image text - center - <color=#000000><size=20>The e-mail field is not valid.</size></color>
+tempMediaText = textAreaCountryPtErro - acesso rapido image text - center - <color=#000000><size=25>O Campo país não é valido.</size></color>
+tempMediaText = textAreaCountryEnErro - acesso rapido image text - center - <color=#000000><size=20>The country field is not valid.</size></color>
+tempMediaText = textAreaStatePtErro - acesso rapido image text - center - <color=#000000><size=25>O Campo estado não é valido.</size></color>
+tempMediaText = textAreaStateEnErro - acesso rapido image text - center - <color=#000000><size=20>The state field is not valid.</size></color>
+tempMediaText = textSelectFishPtErro - acesso rapido image text - center - <color=#000000><size=25>Nenhum peixe selecionado.</size></color>
+tempMediaText = textSelectFishEnErro - acesso rapido image text - center - <color=#000000><size=20>None selected fish.</size></color>
+tempMediaText = textSelectSkinPtErro - acesso rapido image text - center - <color=#000000><size=25>Nenhum escama selecionada.</size></color>
+tempMediaText = textSelectSkinEnErro - acesso rapido image text - center - <color=#000000><size=20>None selected skin.</size></color>
+Loading view = resources/views/FirstStepCustomizeFish.xml

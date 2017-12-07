@@ -1,0 +1,243 @@
+<View id="FourthStepCustomizeFish" width="1920" height="1080" x="0" y="0" correctY="true" script="FourthStepScript" origPosition="">
+	<Components>
+		<Component type="IMAGE" id="fundoFourthStep" imageId="fundoLoading" description="acesso rapido image" x="0" y="0" objWidth="1920" objHeight="1080" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="TEXTAREA" id="textAreaTitlePtFourthStep" description="bread crumb text area" x="960" y="30" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaTitlePtFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="textAreaTitleEnFourthStep" description="bread crumb text area" x="960" y="60" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="textAreaTitleEnFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="pageCountFourthStep" imageId="pageCountFourthStep" description="acesso rapido image" x="795" y="140" objWidth="331" objHeight="61" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="formBgFourthStep" imageId="bgDadosFourthStep" description="acesso rapido image" x="435" y="245" objWidth="1050" objHeight="378" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="keyboardBgFourthStep" imageId="keyboardBgFourthStep" description="acesso rapido image" x="435" y="635" objWidth="1050" objHeight="445" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<!-- FORM -->
+		<Component type="IMAGE" id="formNameFourthStep" imageId="dataBgFourthStep" description="acesso rapido image" x="485" y="305" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formNameFourthStepError" imageId="dataErrorBgFourthStep" description="acesso rapido image" x="485" y="305" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formNameFourthStepFocus" imageId="dataFocusBgFourthStep" description="acesso rapido image" x="485" y="305" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="formNameTitleFourthStep" description="bread crumb text area" x="535" y="235" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="formNameTitleFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="INPUT" id="formNameInputFourthStep" description="bread crumb text area" x="712" y="333" objWidth="450" objHeight="50">
+			<textArray>
+				<text textId="formNameInputFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="formAgeFourthStep" imageId="dataBgFourthStep" description="acesso rapido image" x="485" y="415" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formAgeFourthStepError" imageId="dataErrorBgFourthStep" description="acesso rapido image" x="485" y="415" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formAgeFourthStepFocus" imageId="dataFocusBgFourthStep" description="acesso rapido image" x="485" y="415" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="formAgeTitleFourthStep" description="bread crumb text area" x="535" y="345" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="formAgeTitleFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="INPUT" id="formAgeInputFourthStep" description="bread crumb text area" x="712" y="443" objWidth="450" objHeight="50">
+			<textArray>
+				<text textId="formAgeInputFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="formSexFourthStep" imageId="dataBgFourthStep" description="acesso rapido image" x="485" y="525" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<!--<Component type="IMAGE" id="formSexFourthStepFocus" imageId="dataFocusBgFourthStep" description="acesso rapido image" x="485" y="525" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>-->
+		<Component type="TEXTAREA" id="formSexTitleFourthStep" description="bread crumb text area" x="535" y="455" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="formSexTitleFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<!-- <Component type="INPUT" id="formSexInputFourthStep" description="bread crumb text area" x="712" y="553" objWidth="450" objHeight="50">
+			<textArray>
+				<text textId="formSexInputFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component> -->
+		<Component type="DROPDOWN" id="formSexInputFourthStep" imageId="blank" description="bread crumb text area" x="715" y="553" objWidth="440" objHeight="50">
+			<imageArray>
+				<image id="blank" x="0" y="0"/>
+				<image id="blank" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="formSexMaleText" x="0" y="0"/>
+				<text textId="formSexFemaleText" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<!-- FORM SECOND COLUMN -->		
+		<Component type="IMAGE" id="formEmailFourthStep" imageId="dataBgFourthStep" description="acesso rapido image" x="980" y="305" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formEmailFourthStepError" imageId="dataErrorBgFourthStep" description="acesso rapido image" x="980" y="305" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formEmailFourthStepFocus" imageId="dataFocusBgFourthStep" description="acesso rapido image" x="980" y="305" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="formEmailTitleFourthStep" description="bread crumb text area" x="1030" y="235" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="formEmailTitleFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="INPUT" id="formEmailInputFourthStep" description="bread crumb text area" x="1207" y="333" objWidth="450" objHeight="50">
+			<textArray>
+				<text textId="formEmailInputFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="formCountryFourthStep" imageId="dataBgFourthStep" description="acesso rapido image" x="980" y="415" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formCountryFourthStepError" imageId="dataErrorBgFourthStep" description="acesso rapido image" x="980" y="415" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formCountryFourthStepFocus" imageId="dataFocusBgFourthStep" description="acesso rapido image" x="980" y="415" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="formCountryTitleFourthStep" description="bread crumb text area" x="1030" y="345" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="formCountryTitleFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="INPUT" id="formCountryInputFourthStep" description="bread crumb text area" x="1207" y="443" objWidth="450" objHeight="50">
+			<textArray>
+				<text textId="formCountryInputFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+		<Component type="IMAGE" id="formStateFourthStep" imageId="dataBgFourthStep" description="acesso rapido image" x="980" y="525" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formStateFourthStepError" imageId="dataErrorBgFourthStep" description="acesso rapido image" x="980" y="525" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="IMAGE" id="formStateFourthStepFocus" imageId="dataFocusBgFourthStep" description="acesso rapido image" x="980" y="525" objWidth="454" objHeight="56" >
+			<textArray>
+				<text textId="NONE" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="TEXTAREA" id="formStateTitleFourthStep" description="bread crumb text area" x="1030" y="455" objWidth="300" objHeight="100">
+			<textArray>
+				<text textId="formStateTitleFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+		<Component type="INPUT" id="formStateInputFourthStep" description="bread crumb text area" x="1207" y="553" objWidth="450" objHeight="50">
+			<textArray>
+				<text textId="formStateInputFourthStepTexto" x="0" y="0"/>
+			</textArray>
+		</Component>
+
+
+		<!-- FORM END -->
+		
+		<Component type="BUTTON" id="btnCancelar" description="tabela button" x="1675" y="50">
+			<config increasePercent="1.1" angle="0" radioButtonMode="false" />
+			<imageArray>
+				<image id="btnCancelar" x="0" y="0"/>
+				<image id="btnCancelar" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+		<!-- BTN back and forward-->
+		
+		<Component type="BUTTON" id="btnBackFourthStep" description="tabela button" x="50" y="950">
+			<config increasePercent="1.1" angle="0" radioButtonMode="false" />
+			<imageArray>
+				<image id="btnBackOffFirstStep" x="0" y="0"/>
+				<image id="btnBackOnFirstStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+		<Component type="BUTTON" id="btnForwardFourthStep" description="tabela button" x="1600" y="950">
+			<config increasePercent="1.1" angle="0"  />
+			<imageArray>
+				<image id="btnEndFourthStep" x="0" y="0"/>
+				<image id="btnEndFourthStep" x="0" y="0"/>
+			</imageArray>
+			<textArray>
+				<text textId="NONE" x="25" y="78"/>
+				<text textId="NONE" x="25" y="78"/>
+			</textArray>
+		</Component>
+
+	</Components>
+</View>
